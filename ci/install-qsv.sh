@@ -5,8 +5,7 @@ set -o pipefail
 set -x
 
 sudo apt install -y \
-	curl jq unzip \
-	libpython3.10
+	curl jq unzip
 
 ua='bbnavi/gtfs-flex CI'
 qsv_release='87693052' # 0.81.0
