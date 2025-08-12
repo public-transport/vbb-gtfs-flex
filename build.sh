@@ -14,7 +14,7 @@ export QSV_SKIP_FORMAT_CHECK='true'
 
 echo_heading 'downloading & extracting the VBB GTFS feed'
 
-wget -c -N -nv -U 'bbnavi/gtfs-flex build script' -O /tmp/gtfs.zip 'https://www.vbb.de/vbbgtfs'
+wget -c -N -nv -U 'github.com/public-transport/vbb-gtfs-flex build script' -O /tmp/gtfs.zip 'https://www.vbb.de/vbbgtfs'
 
 unzip -o -j -q -d gtfs /tmp/gtfs.zip agency.txt
 unzip -o -j -q -d gtfs /tmp/gtfs.zip stops.txt

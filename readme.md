@@ -2,7 +2,7 @@
 
 **Generate a [GTFS-Flex v2](https://gtfs.org/community/extensions/flex/) feed that augments [VBB](https://en.wikipedia.org/wiki/Verkehrsverbund_Berlin-Brandenburg)'s [official GTFS Schedule feed](https://unternehmen.vbb.de/digitale-services/datensaetze/).**
 
-[![CC0-licensed](https://img.shields.io/github/license/bbnavi/gtfs-flex.svg)](LICENSE)
+[![CC0-licensed](https://img.shields.io/github/license/public-transport/vbb-gtfs-flex.svg)](LICENSE)
 
 It adds the following demand-responsive lines:
 
@@ -15,7 +15,7 @@ It adds the following demand-responsive lines:
 The built GTFS-Flex feed is published via GitHub Pages:
 
 ```shell
-wget 'https://bbnavi.github.io/gtfs-flex/gtfs-flex.zip'
+wget 'https://public-transport.github.io/vbb-gtfs-flex/gtfs-flex.zip'
 ```
 
 
@@ -24,7 +24,7 @@ wget 'https://bbnavi.github.io/gtfs-flex/gtfs-flex.zip'
 You need [`qsv`](https://github.com/jqnatividad/qsv), which you can download from [its latest release](https://github.com/jqnatividad/qsv/releases/latest).
 
 ```shell
-git clone https://github.com/bbnavi/gtfs-flex.git
+git clone https://github.com/public-transport/vbb-gtfs-flex.git
 cd gtfs-flex
 ./build.sh
 ```

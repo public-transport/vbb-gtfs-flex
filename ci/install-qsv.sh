@@ -7,7 +7,7 @@ set -x
 sudo apt install -y \
 	curl jq unzip
 
-ua='bbnavi/gtfs-flex CI'
+ua='github.com/public-transport/vbb-gtfs-flex CI'
 qsv_release='6.0.1'
 # `…/releases/tag/$tag` currently fails despite being documented:
 # https://docs.github.com/en/rest/releases/releases?apiVersion=2022-11-28#get-a-release-by-tag-name
