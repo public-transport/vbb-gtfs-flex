@@ -12,10 +12,10 @@ It adds the following demand-responsive lines:
 
 ## Obtaining the feed
 
-If you want to use this feed, download it from [the respective `opendata.bbnavi.de` page](https://opendata.bbnavi.de/vbb-gtfs-flex/index.html):
+The built GTFS-Flex feed is published via GitHub Pages:
 
 ```shell
-wget 'https://opendata.bbnavi.de/vbb-gtfs-flex/gtfs-flex.zip'
+wget 'https://bbnavi.github.io/gtfs-flex/gtfs-flex.zip'
 ```
 
 

@@ -1,4 +1,4 @@
-name: build and publish on opendata.bbnavi.de
+name: build and publish using GitHub Pages
 
 on:
   push:
@@ -22,32 +22,31 @@ jobs:
       run: ./ci/install-qsv.sh
 
     - run: ./build.sh
-    - name: store gtfs-flex.zip as artifact
-      uses: actions/upload-artifact@v4
+
+    - run: |
+        mkdir gh-pages
+        cp index.html gtfs-flex.zip gh-pages/
+    - name: store GTFS-Flex feed as GitHub Pages artifact
+      if: ${{ (github.event_name == 'push' || github.event_name == 'schedule') && github.ref == 'refs/heads/main' }}
+      uses: actions/upload-pages-artifact@v3
       with:
-        name: gtfs-flex
-        path: |
-          index.html
-          gtfs-flex.zip
-        retention-days: 1
+        name: feed
+        path: gh-pages/
 
   publish:
-    name: publish GTFS-Flex feed on opendata.bbnavi.de
+    name: publish GTFS-Flex feed using GitHub Pages
     if: ${{ (github.event_name == 'push' || github.event_name == 'schedule') && github.ref == 'refs/heads/main' }}
     needs: [build]
     runs-on: ubuntu-latest
-    env:
-      MC_IMAGE:
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      # todo
-      - name: restore gtfs-flex.zip
-        uses: actions/download-artifact@v5
+      - name: deploy GTFS-Flex feed to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
         with:
-          name: gtfs-flex
-      - name: publish to opendata.bbnavi.de
-        run: |
-          docker run \
-            --rm -i -v $PWD:/data \
-            -e "MC_HOST_bbnavi=https://${{ secrets.OPENDATA_KEY }}:${{ secrets.OPENDATA_SECRET }}@opendata.bbnavi.de" \
-            minio/mc:RELEASE.2023-09-02T21-28-03Z \
-            cp /data/index.html /data/gtfs-flex.zip bbnavi/vbb-gtfs-flex/
+          artifact_name: feed

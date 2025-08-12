@@ -1,2 +1,2 @@
 feed_id,feed_publisher_name,feed_publisher_url,feed_lang,feed_contact_email,feed_contact_url
-vbb-flex,DigitalAgentur Brandenburg GmbH,https://www.digital-agentur.de,deu,kontakt@digital-agentur.de,https://opendata.bbnavi.de/vbb-gtfs-flex/index.html
+vbb-flex,DigitalAgentur Brandenburg GmbH,https://www.digital-agentur.de,deu,kontakt@digital-agentur.de,https://bbnavi.github.io/gtfs-flex/
