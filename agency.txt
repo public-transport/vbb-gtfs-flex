@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_phone
-8583,Uckermärkische Verkehrsgesellschaft,https://www.delfi.de,Europe/Berlin,
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+93,Uckermärkische Verkehrsgesellschaft mbH,http://www.wirbewegensie.de,Europe/Berlin,de,

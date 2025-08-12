@@ -6,8 +6,8 @@
 
 It adds the following demand-responsive lines:
 
-- [RufBus lines 476, 477 & 478 in Angermünde](https://uvg-online.com/rufbus-angermuende/)
-- [RufBus lines 487 & 488 in Gartz](https://uvg-online.com/rufbus-gartz/)
+- [RufBus lines R476, R477 & R478 in Angermünde](https://uvg-online.com/rufbus-angermuende/)
+- [RufBus lines R487 & R488 in Gartz](https://uvg-online.com/rufbus-gartz/)
 
 
 ## Obtaining the feed

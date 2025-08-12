@@ -1,379 +1,416 @@
-stop_id,stop_name,parent_station,stop_desc,stop_lat,stop_lon,location_type,wheelchair_boarding,platform_code
-000300603005,"Tantow, Bahnhof",,Bushalt Bahnhofstraße vor Lindenallee,53.27056,14.350174,,1,
-de:12060:900350568::1,"Lüdersdorf (bei Oderberg), Dorf",,Bushalt Dorfstraße hinter Parsteiner Straße,52.933807,14.074315,,,
-de:12060:900350570::1,"Lüdersdorf (bei Oderberg), Abzweig Stolzenhagen",,Bushalt K 6014 vor Dorfstraße,52.935898,14.075959,,,
-de:12060:900350637::1,Parstein,,Bushalt Angermünder Straße vor Lüdersdorfer Straße,52.932983,14.036583,,,
-de:12060:900350637::2,Parstein,,Bushalt Lüdersdorfer Straße vor Angermünder Straße,52.933033,14.037993,,,
-de:12060:900350637::3,Parstein,,Bushalt Oderberger Straße vor Lüdersdorfer Straße,52.93234,14.036888,,,
-de:12060:900350714::1,"Stolzenhagen (bei Oderberg), Ortseingang",,Bushalt Elsengrund hinter Weinbergstraße,52.94455,14.097184,,,
-de:12060:900350714::2,"Stolzenhagen (bei Oderberg), Ortseingang",,Bushalt Elsengrund vor Weinbergstraße,52.944504,14.097111,,,
-de:12060:900350719::1,"Stolzenhagen (bei Oderberg), Wendestelle",,Bushalt Elsengrund vor Kastanienallee,52.948807,14.100024,,,
-de:12073:900340004:1:50,"Angermünde, Bahnhof",de:12073:900340004,Bahnsteig Gleis 1,53.015854,13.996267,,1,1
-de:12073:900340004:2:51,"Angermünde, Bahnhof",de:12073:900340004,Bahnsteig Gleis 2,53.01584,13.996184,,1,2
-de:12073:900340004:3:52,"Angermünde, Bahnhof",de:12073:900340004,Bahnsteig Gleis 3,53.015793,13.995908,,1,3
-de:12073:900340004:3:53,"Angermünde, Bahnhof",de:12073:900340004,Bahnsteig Gleis 4,53.017014,13.994776,,1,4
-de:12073:900340004:3:54,"Angermünde, Bahnhof",de:12073:900340004,Bahnsteig Gleis 5,53.01574,13.995672,,1,5
-de:12073:900340004::1,"Angermünde, Bahnhof",,Bussteig Position 1,53.015514,13.997178,,1,
-de:12073:900340004::2,"Angermünde, Bahnhof",,Bussteig Position 2,53.015636,13.997161,,1,
-de:12073:900340004::3,"Angermünde, Bahnhof",,Bussteig Position 3,53.015736,13.997084,,1,
-de:12073:900340004::4,"Angermünde, Bahnhof",,Bussteig Position 4,53.015823,13.997012,,1,
-de:12073:900340004::5,"Angermünde, Bahnhof",,Bussteig Position 5,53.01591,13.996944,,1,
-de:12073:900340004::6,"Angermünde, Bahnhof",,Bussteig Position 6,53.015236,13.99762,,1,
-de:12073:900340005::1,"Altkünkendorf, Luisenhof",,Bushalt K 7346 in Richtung Südwesten,53.007496,13.914822,,,
-de:12073:900340005::2,"Altkünkendorf, Luisenhof",,Bushalt K 7346 vor Schmargendorfer Straße,53.00747,13.914839,,,
-de:12073:900340006::1,"Altkünkendorf, Mitte",,Bushalt Altkünkendorfer Straße vor Pflasterdamm,53.00774,13.87745,,,
-de:12073:900340006::2,"Altkünkendorf, Mitte",,Bushalt Altkünkendorfer Straße in Richtung Osten,53.007668,13.877273,,,
-de:12073:900340019::1,"Biesenbrow, Mitte",,Bushalt Heidenstraße vor Hirtenende,53.11902,14.015828,,,
-de:12073:900340019::2,"Biesenbrow, Mitte",,Bushalt Hirtenstraße hinter Hirtenende,53.119102,14.015836,,,
-de:12073:900340024::1,"Biesenbrow, Schäfereiweg",,Bushalt Landstraße Richtung Biesenbrow,53.12614,14.015985,,,
-de:12073:900340034::1,"Blumenhagen (UM), Abzweig",,Bushalt B 2 vor Lauseberg Richtung Norden,53.109093,14.303457,,,
-de:12073:900340034::2,"Blumenhagen (UM), Abzweig",,Bushalt B 2 vor Lauseberg Richtung Süden,53.109455,14.303548,,,
-de:12073:900340035::1,"Blumenhagen (UM), Mitte",,Bushalt Zu den Müllerbergen hinter Schulgang,53.11421,14.2921,,,
-de:12073:900340035::2,"Blumenhagen (UM), Mitte",,Bushalt Zu den Müllerbergen vor Schulgang,53.113987,14.291983,,,
-de:12073:900340036::1,"Blumenhagen (UM), Wildbahn",,Bushalt Wildbahn Richtung Norden,53.118523,14.30752,,,
-de:12073:900340036::2,"Blumenhagen (UM), Wildbahn",,Bushalt Wildbahn Richtung Süden,53.118393,14.307407,,,
-de:12073:900340038::1,Bölkendorf,,Bushalt L 283 vor Bölkendorfer Straße,52.95089,14.000207,,,
-de:12073:900340044::1,"Bruchhagen, Abzweig",,Bushalt B 198 vor Straße zum Ausbau,53.07395,13.959605,,,
-de:12073:900340044::2,"Bruchhagen, Abzweig",,Bushalt B 198 hinter Straße zum Ausbau,53.073875,13.95957,,,
-de:12073:900340045::1,"Bruchhagen, Mitte",,Bushalt Schöne Aussicht hinter Straße zum Ausbau,53.08072,13.971324,,,
-de:12073:900340045::2,"Bruchhagen, Mitte",,Bushalt Schöne Aussicht vor Straße zum Ausbau,53.080685,13.971272,,,
-de:12073:900340061:1:50,"Casekow, Bahnhof",de:12073:900340061,Bahnsteig Gleis 1,53.213596,14.208461,,1,1
-de:12073:900340061::1,"Casekow, Bahnhof",,Bushalt Bahnhofstraße hinter Woltersdorfer Straße,53.21347,14.207765,,1,
-de:12073:900340061::2,"Casekow, Bahnhof",,Bushalt Bahnhofstraße hinter Mühlenweg,53.213547,14.207518,,1,
-de:12073:900340062::1,"Casekow, Hohenselchower Str.",,Bushalt Hohenselchower Straße hinter Friedensstraße,53.211075,14.210091,,,
-de:12073:900340062::2,"Casekow, Hohenselchower Str.",,Bushalt Hohenselchower Straße vor Friedensstraße,53.210995,14.209726,,,
-de:12073:900340063::1,"Casekow, Mitte",,Bushalt Mitte,53.210564,14.208202,,,
-de:12073:900340063::2,"Casekow, Mitte",,Bushalt Mitte,53.210953,14.208138,,,
-de:12073:900340064::1,"Casekow, Schule",,Bushalt Schule,53.210365,14.208383,,,
-de:12073:900340076::1,"Crussow, Abzweig Felchower Str.",,Bushalt K 7359 vor Felchower Straße,53.00553,14.083366,,,
-de:12073:900340076::2,"Crussow, Abzweig Felchower Str.",,Bushalt  K 7359 hinter Felchower Straße,53.00551,14.083477,,,
-de:12073:900340077::1,"Crussow, Mitte",,Bushalt Angermünder Straße hinter Sandangerweg,53.00009,14.078907,,,
-de:12073:900340078::1,"Crussow, Neubau",,Bushalt Angermünder Straße hinter Gellmerdorfer Straße,52.99845,14.085596,,,
-de:12073:900340078::2,"Crussow, Neubau",,Bushalt Angermünder Straße vor Felchower Straße,52.998398,14.086216,,,
-de:12073:900340079::2,"Crussow, Nord",,Bushalt Felchower Straße hinter Steinstraße,53.001427,14.08162,,,
-de:12073:900340081::1,"Crussow, Gellmersdorfer Str.",,Bushalt Gellmersdorfer Straße,52.995636,14.076085,,,
-de:12073:900340085::1,"Damitzow, Mitte",,Bushalt Damitzower Straße hinter B 113,53.28579,14.330431,,,
-de:12073:900340085::2,"Damitzow, Mitte",,Bushalt Damitzower Straße vor B 113,53.285564,14.330369,,,
-de:12073:900340100::1,"Angermünde, Am Markt",,Bushalt Am Markt Position 1,53.018898,14.003795,,,
-de:12073:900340100::2,"Angermünde, Am Markt",,Bushalt Am Markt Position 2,53.018867,14.004027,,,
-de:12073:900340100::3,"Angermünde, Am Markt",,Bushalt Am Markt Position 3,53.01884,14.004267,,,
-de:12073:900340100::4,"Angermünde, Am Markt",,Bushalt Am Markt Position 4,53.018803,14.004559,,,
-de:12073:900340100::5,"Angermünde, Am Markt",,Bushalt Am Markt Position 5,53.01877,14.004879,,,
-de:12073:900340101::1,"Angermünde, Bahnüberfahrtshaus",,Bushalt B 158 in Richtung Südosten,52.99595,14.024157,,,
-de:12073:900340101::2,"Angermünde, Bahnüberfahrtshaus",,Bushalt B 158 in Richtung Nordwesten,52.995945,14.024364,,,
-de:12073:900340106::1,"Angermünde, Büchnerstr.",,Bushalt Büchnerstraße vor Heinestraße,53.013245,14.023393,,,
-de:12073:900340106::2,"Angermünde, Büchnerstr.",,Bushalt Büchnerstraße hinter Heinestraße,53.01324,14.023302,,,
-de:12073:900340107::1,"Angermünde, Chausseehaus",,Bushalt B 158 in Richtung Osten,52.998535,14.01062,,,
-de:12073:900340107::2,"Angermünde, Chausseehaus",,Bushalt B 158 in Richtung Westen,52.9986,14.010631,,,
-de:12073:900340108::1,"Angermünde, Ehm-Welk-Str.",,Bushalt Puschkinallee vor Am Plattenwerk,53.011215,13.9941,,,
-de:12073:900340108::2,"Angermünde, Ehm-Welk-Str.",,Bushalt Puschkinallee vor Ehm-Welk-Straße,53.011616,13.994766,,,
-de:12073:900340109::1,"Angermünde, Eigenheimsiedlung",,Bushalt Sternfelder Straße vor Birkenallee,53.003593,13.981014,,,
-de:12073:900340109::2,"Angermünde, Eigenheimsiedlung",,Bushalt Sternfelder Straße hinter Kastanienallee,53.00357,13.980877,,,
-de:12073:900340110::1,"Angermünde, Einkaufscenter",,Bushalt Prenzlauer Straße vor Am Krötenberg,53.02234,13.999873,,,
-de:12073:900340110::2,"Angermünde, Einkaufscenter",,Bushalt Prenzlauer Straße hinter Alte Templiner Straße,53.022015,13.999902,,,
-de:12073:900340111::1,"Angermünde, Schwedter Str.",,Bushalt Schwedter Straße vor Zur Hamey,53.016518,14.014626,,,
-de:12073:900340111::2,"Angermünde, Schwedter Str.",,Bushalt Schwedter Straße hinter An der Umgehungsstraße,53.016445,14.013368,,,
-de:12073:900340112::1,"Angermünde, Fischerstr.",,Bushalt Fischerstraße vor Schloßwall,53.020103,14.003233,,,
-de:12073:900340114::1,"Angermünde, G.-Wolff-Str.",,Bushalt Pestalozzistraße in Richtung Süden,53.0176,13.98103,,,
-de:12073:900340114::2,"Angermünde, G.-Wolff-Str.",,Bushalt Pestalozzistraße vor Georg-Wolff-Straße,53.017693,13.981119,,,
-de:12073:900340119::1,"Angermünde, Kaisergarten",,Bushalt Klosterstraße vor Ring,53.016487,14.008111,,,
-de:12073:900340120::1,"Angermünde, Kalksandsteinwerk",,Bushalt Berliner Tor in Richtung Süden,52.99172,13.981486,,,
-de:12073:900340120::2,"Angermünde, Kalksandsteinwerk",,Bushalt Berliner Tor in Richtung Norden,52.991764,13.98177,,,
-de:12073:900340121::1,"Angermünde, Kloster",,Bushalt Klosterstraße vor Lösenergasse,53.016045,14.003689,,,
-de:12073:900340121::2,"Angermünde, Kloster",,Bushalt Klosterstraße hinter Zur Stadtmauer,53.016037,14.004266,,,
-de:12073:900340122::1,"Angermünde, Krankenhaus",,Bushalt Rudolf-Breitscheid-Straße hinter Bergstraße,53.01335,13.987551,,,
-de:12073:900340122::2,"Angermünde, Krankenhaus",,Bushalt Rudolf-Breitscheid-Straße vor Triftstraße,53.013275,13.987631,,,
-de:12073:900340123::1,"Angermünde, Leistenhof",,Bushalt Berliner Tor in Richtung Süden,52.999367,13.986952,,,
-de:12073:900340123::2,"Angermünde, Leistenhof",,Bushalt Berliner Tor hinter Leistenhof,52.999817,13.987344,,,
-de:12073:900340124::1,"Angermünde, Pestalozzistr.",,Bushalt Pestalozzistraße vor Rudolf-Breitscheid-Straße,53.013466,13.982127,,,
-de:12073:900340124::2,"Angermünde, Pestalozzistr.",,Bushalt Pestalozzistraße vor Birkenweg,53.013664,13.982119,,,
-de:12073:900340125::1,"Angermünde, Prenzlauer Str.",,Bushalt Prenzlauer Straße vor Mürower Weg,53.02405,13.998336,,,
-de:12073:900340125::2,"Angermünde, Prenzlauer Str.",,Bushalt Prenzlauer Straße vor Templiner Straße,53.02379,13.998395,,,
-de:12073:900340126::1,"Angermünde, Puschkinallee",,Bushalt Puschkinallee hinter Sternfelder Straße,53.002834,13.98854,,,
-de:12073:900340126::2,"Angermünde, Puschkinallee",,Bushalt Puschkinallee hinter Berliner Tor,53.002834,13.988696,,,
-de:12073:900340127::1,"Angermünde, Berliner Str.",,Bushalt Berliner Straße hinter Kirchgasse,53.019257,14.001557,,,
-de:12073:900340127::2,"Angermünde, Berliner Str.",,Bushalt Berliner Straße vor Himmelsleiter,53.01865,14.0013,,,
-de:12073:900340128::1,"Angermünde, Rosenstr.",,Bushalt Berliner Straße vor Rosenstraße,53.01678,14.000624,,,
-de:12073:900340128::2,"Angermünde, Rosenstr.",,Bushalt Berliner Straße hinter Ring,53.017197,14.000707,,,
-de:12073:900340129::1,"Angermünde, Schillerplatz",,Bushalt Schillerplatz vor Büchnerstraße,53.011105,14.02216,,,
-de:12073:900340130::1,"Angermünde, Schwedter Tor",,Bushalt Mudrowweg vor Schwedter Straße,53.015537,14.017131,,,
-de:12073:900340130::2,"Angermünde, Schwedter Tor",,Bushalt Murdrowweg hinter B 2,53.015617,14.016916,,,
-de:12073:900340131::1,"Angermünde, Am Sportplatz",,Bushalt Jahnstraße hinter Bergstraße,53.015846,13.986862,,,
-de:12073:900340131::2,"Angermünde, Am Sportplatz",,Bushalt Jahnstraße vor Rudolf-Harbig-Straße,53.015884,13.986834,,,
-de:12073:900340132::1,"Angermünde, Sternfelder Weg",,Bushalt Sternfelder Straße hinter Puschkinallee,53.003265,13.988252,,,
-de:12073:900340132::2,"Angermünde, Sternfelder Weg",,Bushalt Sternfelder Straße vor Puschkinallee,53.003242,13.98835,,,
-de:12073:900340133::1,"Angermünde, Tierpark",,Bushalt Puschkinallee hinter Am Plattenwerk,53.008633,13.991247,,,
-de:12073:900340133::2,"Angermünde, Tierpark",,Bushalt Puschkinallee vor Espelkamper Weg,53.00892,13.991481,,,
-de:12073:900340134::1,"Angermünde, Umspannwerk",,Bushalt Prenzlauer Straße in Richtung Norden,53.027817,13.994515,,,
-de:12073:900340134::2,"Angermünde, Umspannwerk",,Bushalt Prenzlauer Straße in Richtung Süden,53.02832,13.994043,,,
-de:12073:900340135::1,"Angermünde, Bildungswerk",,Bushalt Schwedter Straße vor An der MTS,53.016956,14.019496,,,
-de:12073:900340135::2,"Angermünde, Bildungswerk",,Bushalt Schwedter Straße hinter Mudrowweg,53.016853,14.01948,,,
-de:12073:900340136::1,"Angermünde, Blumberger Mühle",,Bushalt Blumenberger Mühle in Richtung Westen,53.03589,13.96741,,,
-de:12073:900340137::1,"Angermünde, Breitscheidstr.",,Bushalt Rudolf-Breitscheid-Straße hinter Grundmühlenweg,53.013817,13.993066,,,
-de:12073:900340137::2,"Angermünde, Breitscheidstr.",,Bushalt Rudolf-Breitscheid-Straße hinter Triftstraße,53.01385,13.993433,,,
-de:12073:900340138::1,"Angermünde, Bruhnschule",,Bushalt Rudolf-Harbig-Straße vor Weg an der Bruhnhalle,53.017757,13.984286,,,
-de:12073:900340138::2,"Angermünde, Bruhnschule",,Bushalt Georg-Wolf-Straße vor Rudolf-Harbig-Straße,53.01804,13.98382,,,
-de:12073:900340139::1,"Angermünde, Gehegemühle",,Bushalt Gehegemühle in Richtung Westen,53.01172,13.947897,,,
-de:12073:900340139::2,"Angermünde, Gehegemühle",,Bushalt Gehegemühle in Richtung Osten,53.011845,13.948079,,,
-de:12073:900340140::1,"Angermünde, Herwegh Str.",,Bushalt Herweghstraße in Richtung Westen,53.01435,14.021558,,,
-de:12073:900340140::2,"Angermünde, Herwegh Str.",,Bushalt Herweghstraße in Richtung Osten,53.014313,14.021279,,,
-de:12073:900340141::1,"Angermünde, Finanzamt",,Bushalt Jahnstraße hinter Wiesenstraße,53.016785,13.990388,,,
-de:12073:900340141::2,"Angermünde, Finanzamt",,Bushalt Jahnstraße in Richtung Westen,53.016865,13.990366,,,
-de:12073:900340144::1,"Angermünde, Templiner Str.",,Bushalt Templiner Straße hinter Prenzlauer Straße,53.02329,13.996141,,,
-de:12073:900340145::1,"Angermünde, Templiner Str. Wendestelle",,Bushalt Templiner Straße Richtung Osten,53.023148,13.993299,,,
-de:12073:900340145::2,"Angermünde, Templiner Str. Wendestelle",,Bushalt Templiner Straße Richtung Westen,53.02325,13.992373,,,
-de:12073:900340146::1,"Angermünde, Alte Templiner Str.",,Bushalt Templiner Straße vor Prenzlauer Straße,53.023285,13.997564,,,
-de:12073:900340148::1,"Angermünde, Am Tanger",,Bushalt Rudolf-Breitscheid-Straße Richtung Südwesten,53.01166,13.974869,,,
-de:12073:900340148::2,"Angermünde, Am Tanger",,Bushalt Rudolf-Breitscheid-Straße Richtung Nordosten,53.011642,13.974954,,,
-de:12073:900340152::1,"Angermünde, E.-Kamieth-Str.",,Bushalt Pestalozzistraße in Richtung Süden,53.015884,13.981368,,,
-de:12073:900340152::2,"Angermünde, E.-Kamieth-Str.",,Bushalt Pestalozzistraße hinter Ernst-Kamieth-Straße,53.016186,13.9814,,,
-de:12073:900340153::1,"Frauenhagen (bei Angermünde), Ausbau",,Bushalt Schönemarker Straße Richtung Nordost,53.09065,14.057669,,,
-de:12073:900340153::2,"Frauenhagen (bei Angermünde), Ausbau",,Bushalt Schönemarker Straße Richtung Südwest,53.09033,14.05724,,,
-de:12073:900340154::1,"Frauenhagen (bei Angermünde), Mitte",,Bushalt Mürower Straße vor Pinnower Straße,53.076813,14.0417,,,
-de:12073:900340154::2,"Frauenhagen (bei Angermünde), Mitte",,Bushalt Mürower Straße hinter Neue Dorfstraße,53.076874,14.041687,,,
-de:12073:900340155::1,"Frauenhagen (bei Angermünde), Neubau",,Bushalt Schönermarker Straße vor Zum Windrad,53.081345,14.047719,,,
-de:12073:900340155::2,"Frauenhagen (bei Angermünde), Neubau",,Bushalt Schönermarker Straße hinter Schmiedestraße,53.0813,14.04757,,,
-de:12073:900340156::1,"Frauenhagen (bei Angermünde), Siedlung",,Bushalt Pinnower Straße Richtung Nordwest,53.07191,14.058763,,,
-de:12073:900340156::2,"Frauenhagen (bei Angermünde), Siedlung",,Bushalt Pinnower Straße Richtung Südost,53.072037,14.058237,,,
-de:12073:900340157::1,"Frauenhagen (bei Angermünde), Ziethenmühle Abzw.",,Bushalt Neue Dorfstraße vor Zum Gutshof,53.080547,14.038274,,,
-de:12073:900340157::2,"Frauenhagen (bei Angermünde), Ziethenmühle Abzw.",,Bushalt Neue Dorfstraße hinter An der Welse,53.080482,14.038066,,,
-de:12073:900340158::1,"Frauenhagen (bei Angermünde), Schmiedestr.",,Bushalt Schmiedestraße hinter Schönermarker Straße,53.082348,14.047066,,,
-de:12073:900340158::2,"Frauenhagen (bei Angermünde), Schmiedestr.",,Bushalt Schmiedestraße vor Schönermarker Straße,53.08227,14.047071,,,
-de:12073:900340160::1,"Angermünde, Abzweig Plattenwerk",,Bushalt Rudolf-Breitscheid-Straße in Richtung Westen,53.01315,13.984579,,,
-de:12073:900340160::2,"Angermünde, Abzweig Plattenwerk",,Bushalt Rudolf-Breitscheid-Straße in Richtung Osten,53.013103,13.985238,,,
-de:12073:900340161::1,Friedrichsfelde (UM),,Bushalt Friedrichsfelder Straße Richtung Westen,53.093838,13.844163,,,
-de:12073:900340161::2,Friedrichsfelde (UM),,Bushalt Friedrichsfelder Straße Richtung Osten,53.093807,13.844297,,,
-de:12073:900340166::1,"Gartz, Stettiner Str.",,Bushalt Stettiner Straße vor Scheunenstraße,53.21057,14.393628,,,
-de:12073:900340166::2,"Gartz, Stettiner Str.",,Bushalt Stettiner Straße hinter Scheunenstraße,53.210537,14.393575,,,
-de:12073:900340169::1,"Gartz, Ausbau",,Bushalt Ausbau Heinrichshof Richtung Südwesten,53.21442,14.34245,,,
-de:12073:900340169::2,"Gartz, Ausbau",,Bushalt Ausbau Heinrichshof Richtung Nordosten,53.214237,14.341507,,,
-de:12073:900340170::1,"Gartz, Busbahnhof",,Bushalt Robert-Koch-Straße vor Pommernstraße Position 1,53.207806,14.392773,,,
-de:12073:900340170::2,"Gartz, Busbahnhof",,Bushalt Robert-Koch-Straße vor Pommernstraße Position 2,53.207672,14.392814,,,
-de:12073:900340170::3,"Gartz, Busbahnhof",,Bushalt Robert-Koch-Straße vor Pommernstraße Position 3,53.207504,14.392862,,,
-de:12073:900340170::4,"Gartz, Busbahnhof",,Bushalt Robert-Koch-Straße vor Pommernstraße Position 4,53.20739,14.392899,,,
-de:12073:900340172::1,"Gartz, Kastanienallee",,Bushalt B 2 vor Kastanienallee,53.211475,14.374291,,,
-de:12073:900340172::2,"Gartz, Kastanienallee",,Bushalt B 2 hinter Mühlenweg,53.21191,14.373256,,,
-de:12073:900340173::1,"Gartz, Mühlenteichbrücke",,Bushalt B 2 vor Gartenstraße,53.208176,14.381194,,,
-de:12073:900340173::2,"Gartz, Mühlenteichbrücke",,Bushalt B 2 vor Schülerweg,53.208252,14.381128,,,
-de:12073:900340175::1,"Gartz, Schule",,Bushalt B 2 vor Am Bahnhof,53.210194,14.377092,,,
-de:12073:900340175::2,"Gartz, Schule",,Bushalt B 2 hinter Am Bahnhof,53.210495,14.376549,,,
-de:12073:900340176::1,"Gartz, Siedlung",,Bushalt Heinrichshofer Straße vor Bergstraße,53.213127,14.361943,,,
-de:12073:900340176::2,"Gartz, Siedlung",,Bushalt Heinrichshofer Straße hinter Bergstraße,53.21308,14.361784,,,
-de:12073:900340184::1,"Gellmersdorf, Mitte",,Bushalt Stolper Straße in der Wendeschleife,52.968464,14.07197,,,
-de:12073:900340190::1,"Görlsdorf (UM), Bahnübergang",,Bushalt Görlsdorfer Straße hinter Blumberger Mühle,53.03776,13.975898,,,
-de:12073:900340190::2,"Görlsdorf (UM), Bahnübergang",,Bushalt Görlsdorfer Straße vor Blumberger Mühle,53.03766,13.976039,,,
-de:12073:900340191::1,"Görlsdorf (UM), Chausseehaus",,Bushalt B 198 Parkstraße in Richtung Geiffenberg,53.060467,13.965626,,,
-de:12073:900340191::2,"Görlsdorf (UM), Chausseehaus",,Bushalt B 198 an Parkstraße in Richtung Kerkow,53.06013,13.966801,,,
-de:12073:900340193::1,"Görlsdorf (UM), Siedlung",,Bushalt Apfelallee vor Parkstraße,53.052315,13.943927,,,
-de:12073:900340193::2,"Görlsdorf (UM), Siedlung",,Bushalt Apfelallee hinter Parkstraße,53.052338,13.943703,,,
-de:12073:900340194::1,"Görlsdorf (UM), Wasserwerk",,Bushalt K 7347 hinter Wasserplatz,53.04967,13.953968,,,
-de:12073:900340194::2,"Görlsdorf (UM), Wasserwerk",,Bushalt K 7347 vor Wasserplatz,53.049606,13.954134,,,
-de:12073:900340829::1,"Greiffenberg, Ausbau",,Bushalt L 24 Richtung Nordwesten,53.093933,13.930275,,,
-de:12073:900340829::2,"Greiffenberg, Ausbau",,Bushalt L 24 Richtung Südosten,53.093742,13.930462,,,
-de:12073:900340830::1,"Greiffenberg, Bahnhofstr.",,Bushalt Bahnhofstraße Richtung Südwest,53.080048,13.936247,,,
-de:12073:900340831::1,"Greiffenberg, Friedhof",,Bushalt L 24 vor Breite Straße,53.087826,13.943798,,,
-de:12073:900340831::2,"Greiffenberg, Friedhof",,Bushalt L 24 hinter Siedlung,53.088066,13.942871,,,
-de:12073:900340832::1,"Greiffenberg, Markt",,Bushalt L 24 hinter Kirchstraße,53.087093,13.953973,,,
-de:12073:900340832::2,"Greiffenberg, Markt",,Bushalt L 24 vor Kirchstraße,53.08713,13.954414,,,
-de:12073:900340833::1,"Greiffenberg, Mitte",,Bushalt B 198 vor Kirchstraße,53.088184,13.957283,,,
-de:12073:900340833::2,"Greiffenberg, Mitte",,Bushalt B 198 hinter Kirchstraße,53.08767,13.955778,,,
-de:12073:900340834::1,"Greiffenberg, Schule",,Bushalt Burgstraße hinter B 198,53.09029,13.961168,,,
-de:12073:900340835::1,"Greiffenberg, Siedlung",,Bushalt Bahnhofstraße hinter Wiesenweg,53.08145,13.940515,,,
-de:12073:900340835::2,"Greiffenberg, Siedlung",,Bushalt Bahnhofstraße vor Wiesenweg,53.081463,13.940646,,,
-de:12073:900340836::1,"Greiffenberg, Zolldamm",,Bushalt Zolldamm vor Wiesenweg,53.081944,13.957039,,,
-de:12073:900340836::2,"Greiffenberg, Zolldamm",,Bushalt Zolldamm hinter Wiesenweg,53.081432,13.957087,,,
-de:12073:900340837::1,"Greiffenberg, Breite Str.",,Bushalt Breite Straße vor Bahnhofstraße,53.0868,13.947866,,,
-de:12073:900340837::2,"Greiffenberg, Breite Str.",,Bushalt Breite Straße hinter Bahnhofstraße,53.08674,13.947973,,,
-de:12073:900340841::1,"Groß Pinnow, Abzweig",,Bushalt Schwedter Straße Richtung Nordosten,53.17743,14.343807,,,
-de:12073:900340841::2,"Groß Pinnow, Abzweig",,Bushalt Schwedter Straße Richtung Südwesten,53.177994,14.34385,,,
-de:12073:900340842::1,"Groß Pinnow, Mitte",,Bushalt Hohenselchower Straße vor Krugstraße,53.1856,14.2769,,,
-de:12073:900340842::2,"Groß Pinnow, Mitte",,Bushalt Hohenselchower Straße hinter Krugstraße,53.185818,14.277233,,,
-de:12073:900340843::1,"Groß Pinnow, Arche",,Bushalt Friedrichsthaler Straße vor Krugstraße,53.182926,14.279123,,,
-de:12073:900340848::1,Grumsin,,Bushalt Althüttendendorfer Straße in der Wendeschleife,52.995865,13.852864,,,
-de:12073:900340877::1,"Heinrichshof, Abzweig",,Bushalt L 216 hinter Heinrichshof,53.08655,13.50671,,,
-de:12073:900340877::2,"Heinrichshof, Abzweig",,Bushalt L 216 in Richtung Norden,53.086655,13.506919,,,
-de:12073:900340878::1,"Heinrichshof, Ausbau",,Bushalt L 27 hinter L 271,53.2092,14.316578,,,
-de:12073:900340878::2,"Heinrichshof, Ausbau",,Bushalt L 27 in Richtung Osten,53.20915,14.316584,,,
-de:12073:900340879::1,"Heinrichshof, Mitte",,Bushalt Gartzer Straße in Richtung Süden,53.20454,14.306522,,,
-de:12073:900340879::2,"Heinrichshof, Mitte",,Bushalt Gartzer Straße in Richtung Norden,53.204693,14.306838,,,
-de:12073:900340892::1,"Herzsprung (UM), Bahnübergang",,Bushalt Am Wiesengrund hinter Herzsprunger Weg,52.97588,13.982775,,,
-de:12073:900340892::2,"Herzsprung (UM), Bahnübergang",,Bushalt Am Wiesengrund vor Am Bahndamm,52.97592,13.981742,,,
-de:12073:900340893::1,"Herzsprung (UM), Bungalowsiedlung",,Bushalt Kleiner Parsteinsee vor Heckenweg,52.97051,13.991409,,,
-de:12073:900340893::2,"Herzsprung (UM), Bungalowsiedlung",,Bushalt Kleiner Parsteinsee vor Zum Parsteinsee,52.970985,13.990245,,,
-de:12073:900340894::1,"Herzsprung (UM), Mitte",,Bushalt Lindenstraße Wendeschleife,52.976833,13.988936,,,
-de:12073:900340898::1,Hohenfelde,,Bushalt Hohenfelder Dorfstraße vor Zum Storchenhof,53.135235,14.277033,,,
-de:12073:900340898::2,Hohenfelde,,Bushalt Hohenfelder Dorfstraße hinter Moritzstraße,53.13523,14.276719,,,
-de:12073:900340904::1,"Hohenreinkendorf, Abzweig",,Bushalt Ausbau Heinrichshof vor L 271,53.21145,14.326333,,,
-de:12073:900340904::2,"Hohenreinkendorf, Abzweig",,Bushalt Ausbau Heinrichshof hinter der Kreuzung,53.211315,14.3262,,,
-de:12073:900340905::1,"Hohenreinkendorf, Mitte",,Bushalt Hauptstraße vor Kreuzdamm,53.230335,14.330105,,,
-de:12073:900340905::2,"Hohenreinkendorf, Mitte",,Bushalt Hauptstraße hinter Beatenhofer Weg,53.230366,14.329995,,,
-de:12073:900340906::1,"Hohenreinkendorf, Nord",,Bushalt Hauptstraße vor Geesower Weg,53.23541,14.332366,,,
-de:12073:900340906::2,"Hohenreinkendorf, Nord",,Bushalt Hauptstraße hinter Penkuner Weg,53.23527,14.332092,,,
-de:12073:900340907::1,"Hohenreinkendorf, Süd",,Bushalt Hauptstraße hinter Siedlungsweg,53.225323,14.32845,,,
-de:12073:900340907::2,"Hohenreinkendorf, Süd",,Bushalt Hauptstraße vor Achterweg West,53.225204,14.328209,,,
-de:12073:900340908::1,"Hohenselchow, Casekower Str.",,Bushalt Casekower Straße hinter Nebenstraße,53.20485,14.2743,,,
-de:12073:900340908::2,"Hohenselchow, Casekower Str.",,Bushalt Casekower Straße vor Pinnower Straße,53.204784,14.274369,,,
-de:12073:900340909::1,"Hohenselchow, Friedhof",,Bushalt Heinrichshofer Straße vor Nebenstraße,53.203842,14.289153,,,
-de:12073:900340909::2,"Hohenselchow, Friedhof",,Bushalt Heinrichshofer Straße hinter Pinnower Straße,53.20376,14.289145,,,
-de:12073:900340910::1,"Hohenselchow, Kreuzung Nord",,Bushalt Heinrichshofer Straße vor Petershagener Straße,53.204437,14.280213,,,
-de:12073:900340911::1,"Hohenselchow, Kreuzung Ost",,Bushalt Heinrichshofer Straße hinter Pinnower Straße,53.204384,14.280028,,,
-de:12073:900340912::1,"Hohenselchow, Kreuzung Süd",,Bushalt Pinnower Straße vor Heinrichshofer Straße,53.20403,14.279858,,,
-de:12073:900340913::1,"Hohenselchow, Kreuzung West",,Bushalt Pinnower Straße hinter Casekower Straße,53.203957,14.279681,,,
-de:12073:900340914::1,"Hohenselchow, Pinnower Str.",,Bushalt Pinnower Straße in Richtung Süden,53.19923,14.277658,,,
-de:12073:900340914::2,"Hohenselchow, Pinnower Str.",,Bushalt Pinnower Straße in Richtung Norden,53.199123,14.277755,,,
-de:12073:900340928::1,Keesow,,Bushalt Keesower Straße Richtung Damitzow,53.273144,14.336194,,,
-de:12073:900340928::2,Keesow,,Bushalt Keesower Straße Richtung Tantow,53.273098,14.33624,,,
-de:12073:900340929::1,"Kerkow, Ausbau",,Bushalt Weslower Straße Ausbau Richtung Weslow,53.051365,14.0046,,,
-de:12073:900340929::2,"Kerkow, Ausbau",,Bushalt Weslower Straße Ausbau Richtung Kerkow,53.05105,14.00445,,,
-de:12073:900340930::1,"Kerkow, Ausbau Mürower Str.",,Bushalt Mürower Straße Ausbau Richtung Mürow,53.045258,14.017172,,,
-de:12073:900340930::2,"Kerkow, Ausbau Mürower Str.",,Bushalt Mürower Straße Ausbau Richtung Angermünde,53.04544,14.017493,,,
-de:12073:900340931::1,"Kerkow, Bahnübergang",,Bushalt Mürower Landstraße vor dem Bahnübergang,53.03372,14.008794,,,
-de:12073:900340931::2,"Kerkow, Bahnübergang",,Bushalt Mürower Landstraße hinter dem Bahnübergang,53.03366,14.008681,,,
-de:12073:900340932::1,"Kerkow, Gaststätte",,Bushalt Kerkower Dorfstraße vor Greiffenberger Straße,53.039204,13.990198,,,
-de:12073:900340932::2,"Kerkow, Gaststätte",,Bushalt Kerkower Dorfstraße hinter Greiffenberger Straße,53.03918,13.990182,,,
-de:12073:900340933::1,"Kerkow, Greiffenberger Str.",,Bushalt Greiffenberger Straße vor Görlsdorfer Straße,53.036667,13.988783,,,
-de:12073:900340933::2,"Kerkow, Greiffenberger Str.",,Bushalt Greiffenberger Straße hinter Görlsdorfer Straße,53.036983,13.988533,,,
-de:12073:900340935::1,"Kerkow, Kita",,Bushalt Kerkower Dorfstraße hinter Mürower Landstraße,53.037457,13.999828,,,
-de:12073:900340935::2,"Kerkow, Kita",,Bushalt Kerkower Dorfstraße vor Mürower Landstraße,53.03746,14.000047,,,
-de:12073:900340945::1,"Kunow (UM), Ausbau",,Bushalt Woltersdorfer Straße vor Vogelsangsruh,53.15491,14.245939,,,
-de:12073:900340945::2,"Kunow (UM), Ausbau",,Bushalt Woltersdorfer Straße hinter Vogelsangsruh,53.154987,14.245966,,,
-de:12073:900340946::1,"Kunow (UM), Mitte",,Bushalt Landstraße vor Kunower Dorfstraße,53.13826,14.257636,,,
-de:12073:900340946::2,"Kunow (UM), Mitte",,Bushalt Landstraße hinter Kunower Dorfstraße,53.138203,14.257479,,,
-de:12073:900340947::1,"Kunow (UM), Teich",,Bushalt Woltersdorfer Straße hinter Kunower Dorfstraße,53.1417,14.257,,,
-de:12073:900340947::2,"Kunow (UM), Teich",,Bushalt Woltersdorfer Straße vor Kunower Dorfstraße,53.141434,14.2573,,,
-de:12073:900340950::1,Luckow,,Bushalt Casekower Straße hinter Neuhofer Straße,53.24029,14.213413,,,
-de:12073:900340955::1,"Mescherin, Brücke",,Bushalt Obere Dorfstraße vor B 113,53.25801,14.436724,,,
-de:12073:900340956::1,"Mescherin, Mitte",,Bushalt Obere Dorfstraße vor Gardinenstraße,53.247475,14.431567,,,
-de:12073:900340957::1,"Mescherin, Nord",,Bushalt Obere Dorfstraße vor Am Stettiner Berg,53.251694,14.433633,,,
-de:12073:900340972::1,"Mürow, Kirche",,Bushalt Hauptstraße vor Straße am Dorfteich,53.0549,14.033304,,,
-de:12073:900340972::2,"Mürow, Kirche",,Bushalt Hauptstraße hinter Straße am Dorfteich,53.05481,14.033139,,,
-de:12073:900340973::1,"Mürow, Mitte",,Bushalt Straße am Dorfteich hinter Hauptstraße,53.05238,14.035051,,,
-de:12073:900340974::1,"Mürow, Oberdorf",,Bushalt Oberdorf Richtung Westen,53.054832,14.054983,,,
-de:12073:900340975::1,"Mürow, Ost",,Bushalt Hauptstraße vor Am Schlosspark,53.05225,14.034616,,,
-de:12073:900340986::1,Neuhaus,,Bushalt Neuhaus in der Wendeschleife,53.07745,13.830466,,,
-de:12073:900340989::1,"Gellmersdorf, Am Stadtberg",,Bushalt Straße Gellmersdorf-Crussow hinter Am Stadtberg,52.976166,14.068329,,,
-de:12073:900340990::1,"Neuhof (UM), Mitte",,Bushalt Neuhofer Straße Richtung Süden,53.018753,14.081923,,,
-de:12073:900340990::2,"Neuhof (UM), Mitte",,Bushalt Neuhofer Straße Richtung Norden,53.01875,14.082065,,,
-de:12073:900340991::1,"Neukünkendorf, Kindergarten",,Bushalt Straße am Haussee hinter Kreuzung,52.975655,14.042079,,,
-de:12073:900340991::2,"Neukünkendorf, Kindergarten",,Bushalt Straße am Haussee vor Kreuzung,52.97571,14.042262,,,
-de:12073:900340992::1,"Neukünkendorf, Kreuzung",,Bushalt Wilhelmsfelder Straße hinter B 158,52.97608,14.043444,,,
-de:12073:900340992::2,"Neukünkendorf, Kreuzung",,Bushalt Wilhelmsfelder Straße vor B 158,52.97611,14.043653,,,
-de:12073:900340993::1,"Neukünkendorf, Mitte",,Bushalt Straße am Haussee Richtung Süden,52.971436,14.038879,,,
-de:12073:900340993::2,"Neukünkendorf, Mitte",,Bushalt Straße am Haussee Richtung Norden,52.971397,14.038964,,,
-de:12073:900340994::1,"Neukünkendorf, Siedlung",,Bushalt Straße am Haussee vor Ausbau Richtung Süden,52.968224,14.037747,,,
-de:12073:900340994::2,"Neukünkendorf, Siedlung",,Bushalt Straße am Haussee vor Ausbau Richtung Norden,52.968292,14.03779,,,
-de:12073:900340995::1,"Neukünkendorf, Ausbau",,Bushalt B 158 hinter Ausbau Richtung Südosten,52.98805,14.029871,,,
-de:12073:900340995::2,"Neukünkendorf, Ausbau",,Bushalt B 158 hinter Ausbau Richtung Nordwesten,52.98818,14.02986,,,
-de:12073:900340998::1,Neurochlitz,,Bushalt B 2 hinter Dorfstraße Ost,53.28045,14.40645,,,
-de:12073:900340998::2,Neurochlitz,,Bushalt B 2 hinter Dorfstraße West,53.280006,14.406377,,,
-de:12073:900341014::1,Peetzig,,Bushalt Peetzig Richtung Nordwest,53.073025,13.918784,,,
-de:12073:900341018::1,"Petershagen (UM), Dorf",,Bushalt Dorfstraße hinter Penkuner Straße,53.244717,14.2512,,,
-de:12073:900341032::1,"Polßen, Mitte",,Bushalt Hauptstraße hinter Dorfstraße,53.166817,13.98086,,,
-de:12073:900341032::2,"Polßen, Mitte",,Bushalt Hauptstraße vor Dorfstraße,53.16652,13.980803,,,
-de:12073:900341033::1,"Polßen, Nord",,Bushalt Am Sportplatz vor Dorfstraße,53.166386,13.979376,,,
-de:12073:900341037::1,"Radekow, Ausbau",,Bushalt K 7311 Richtung Süden,53.290295,14.351155,,,
-de:12073:900341037::2,"Radekow, Ausbau",,Bushalt K 7311 Richtung Norden,53.290577,14.351316,,,
-de:12073:900341038::1,"Radekow, Mitte",,Bushalt Lindenstraße hinter Rosower Weg,53.296062,14.352254,,,
-de:12073:900341038::2,"Radekow, Mitte",,Bushalt Lindenstraße vor Rosower Weg,53.295918,14.352322,,,
-de:12073:900341039::1,"Radekow, Ost",,Bushalt Alt-Radekower Straße Richtung Süden,53.30152,14.35256,,,
-de:12073:900341039::2,"Radekow, Ost",,Bushalt Alt-Radekower Straße Richtung Norden,53.30182,14.352705,,,
-de:12073:900341046::1,"Rosow, Bahnhof",,Bushalt Bahnhof,53.314167,14.372583,,,
-de:12073:900341046::2,"Rosow, Bahnhof",,Bushalt Bahnhof,53.31405,14.3727,,,
-de:12073:900341047::1,"Rosow, Grenze",,Bushalt B2 vor K7311,53.30536,14.408395,,,
-de:12073:900341047::2,"Rosow, Grenze",,Bushalt B2 hinter K7311,53.30531,14.40827,,,
-de:12073:900341048::1,"Rosow, Mitte",,Bushalt Dorfstraße vor Tantower Straße,53.304874,14.388617,,,
-de:12073:900341048::2,"Rosow, Mitte",,Bushalt Dorfstraße hinter Tantower Straße,53.304714,14.389074,,,
-de:12073:900341049::1,"Rosow, Neubau",,Bushalt Dorfstraße Richtung Südwest,53.305286,14.395543,,,
-de:12073:900341049::2,"Rosow, Neubau",,Bushalt Dorfstraße Richtung Nordost,53.305496,14.395813,,,
-de:12073:900341055::1,"Schmargendorf, Kreuzung",,Bushalt B 2 Herzsprunger Weg Richtunng Norden,52.978157,13.971548,,,
-de:12073:900341055::2,"Schmargendorf, Kreuzung",,Bushalt B 2 Herzsprunger Weg Richtung Süden,52.976997,13.970437,,,
-de:12073:900341056::1,"Schmargendorf, Mitte",,Bushalt Rotdornstraße hinter Zum Dorfanger,52.989273,13.954128,,,
-de:12073:900341057::1,"Schmargendorf, Siedlung",,Bushalt Zum Dorfanger vor Am Mühlenberg,52.978706,13.965088,,,
-de:12073:900341057::2,"Schmargendorf, Siedlung",,Bushalt Zum Dorfanger vor B 2,52.978455,13.966136,,,
-de:12073:900341058::1,"Schmargendorf, Hemme Milch",,Bushalt Heideweg Richtung Südost,52.98883,13.955104,,,
-de:12073:900341062::1,"Schmiedeberg, Ausbau",,Bushalt Chausseehaus vor Polßener Mühle Richtung Nordost,53.14965,13.965779,,,
-de:12073:900341062::2,"Schmiedeberg, Ausbau",,Bushalt Chauseehaus vor Polßener Mühle Richtung Südwest,53.149757,13.965733,,,
-de:12073:900341063::1,"Schmiedeberg, Mitte",,Bushalt B 198 vor Dorfstraße,53.142555,13.958031,,,
-de:12073:900341063::2,"Schmiedeberg, Mitte",,Bushalt B 198 hinter Dorfstraße,53.14282,13.958108,,,
-de:12073:900341064::1,"Schmiedeberg, Nord",,Bushalt Dorfstraße Richtung Süden,53.143154,13.952212,,,
-de:12073:900341064::2,"Schmiedeberg, Nord",,Bushalt Dorfstraße Richtung Norden,53.14368,13.952808,,,
-de:12073:900341078::1,"Schönfeld (bei Tantow), Mitte",,Bushalt Hauptstraße Richtung Nordost,53.27535,14.291509,,,
-de:12073:900341186::1,"Staffelde (UM), Mitte",,Bushalt Zur Lindenallee hinter Betonstraße,53.26828,14.431303,,,
-de:12073:900341186::2,"Staffelde (UM), Mitte",,Bushalt Zur Lindenallee vor Betonstraße,53.26831,14.431362,,,
-de:12073:900341191::1,"Steinhöfel (UM), Bahnübergang",,Bushalt Ausbau hinter Bahnübergang,53.09519,13.902183,,,
-de:12073:900341191::2,"Steinhöfel (UM), Bahnübergang",,Bushalt Ausbau vor Bahnübergang,53.095154,13.902018,,,
-de:12073:900341192::1,"Steinhöfel (UM), Kreuzung",,Bushalt L 24 Richtung Nordwesten,53.09758,13.922435,,,
-de:12073:900341192::2,"Steinhöfel (UM), Kreuzung",,Bushalt L 24 Richtung Südosten,53.09713,13.923113,,,
-de:12073:900341193::1,"Steinhöfel (UM), Mitte",,Bushalt Steinhöfler Straße Richtung Südwesten,53.09376,13.87626,,,
-de:12073:900341193::2,"Steinhöfel (UM), Mitte",,Bushalt Steinhöfler Straße Richtung Nordosten,53.093773,13.876464,,,
-de:12073:900341194::1,"Steinhöfel (UM), Neubau",,Bushalt Steinhöfler Straße Richtung Norden,53.09388,13.87188,,,
-de:12073:900341194::2,"Steinhöfel (UM), Neubau",,Bushalt Steinhöfler Straße Richtung Süden,53.094326,13.871127,,,
-de:12073:900341195::1,"Steinhöfel (UM), Wendeschleife",,Bushalt Steinhöfler Straße in der Wendeschleife,53.094353,13.880318,,,
-de:12073:900341210::1,"Stolpe (Oder), Am Fliedergrund",,Bushalt Schöneberger Straße Richtung Nordosten,52.985798,14.118991,,,
-de:12073:900341210::2,"Stolpe (Oder), Am Fliedergrund",,Bushalt Schöneberger Straße Richtung Südwesten,52.985664,14.118666,,,
-de:12073:900341211::1,"Stolpe (Oder), Linde",,Bushalt Linde Richtung Nordwesten,52.989822,14.11555,,,
-de:12073:900341212::1,"Stolpe (Oder), Mitte",,Bushalt Am Kanal vor Leopold-von-Buch-Straße,52.978333,14.113224,,,
-de:12073:900341213::1,"Stolpe (Oder), Turm",,Bushalt Leopold-von-Buch-Straße Richtung Süden,52.979828,14.117426,,,
-de:12073:900341213::2,"Stolpe (Oder), Turm",,Bushalt Leopold-von-Buch-Straße Richtung Norden,52.979324,14.11672,,,
-de:12073:900341223::1,"Tantow, Ausbau",,Bushalt Hohenreinkendorfer Straße vor Gessower Weg,53.26025,14.349356,,,
-de:12073:900341223::2,"Tantow, Ausbau",,Bushalt Hohenreinkendorfer Straße vor Geesower Weg,53.2604,14.3496,,,
-de:12073:900341224:1:50,"Tantow, Bahnhof",de:12073:900341224,Bahnsteig Gleis 1,53.27052,14.349615,,1,1
-de:12073:900341224:2:51,"Tantow, Bahnhof",de:12073:900341224,Bahnsteig Gleis 3,53.270706,14.349585,,1,2
-de:12073:900341224::1,"Tantow, Bahnhof",,Bushalt Bahnhofstraße hinter Lindenallee,53.2706,14.350069,,1,
-de:12073:900341225::1,"Tantow, Bahnübergang",,Bushalt Lindenallee vor Dorfstraße,53.27189,14.349969,,,
-de:12073:900341225::2,"Tantow, Bahnübergang",,Bushalt Lindenallee hinter Dorfstraße,53.27178,14.350052,,,
-de:12073:900341226::1,"Tantow, Friedhof",,Bushalt Dorfstraße Richtung Süden,53.27692,14.352068,,,
-de:12073:900341226::2,"Tantow, Friedhof",,Bushalt Dorfstraße Richtung Norden,53.277245,14.352124,,,
-de:12073:900341227::1,"Tantow, Schule",,Bushalt Schule,53.2669,14.350266,,,
-de:12073:900341227::2,"Tantow, Schule",,Bushalt Schule,53.266888,14.350075,,,
-de:12073:900341228::1,"Tantow, Siedlungsweg",,Bushalt Bahnhofstraße hinter Siedlungsweg,53.265995,14.348156,,,
-de:12073:900341228::2,"Tantow, Siedlungsweg",,Bushalt Bahnhofstraße vor Siedlungsweg,53.26577,14.348123,,,
-de:12073:900341235::1,"Vierraden, Schwedenweg",,Bushalt Schwedenweg hinter Siedlung,53.101177,14.307906,,,
-de:12073:900341236::1,"Vierraden, Tabakmuseum",,Bushalt Breite Straße hinter Schwedter Straße,53.095043,14.293515,,,
-de:12073:900341236::2,"Vierraden, Tabakmuseum",,Bushalt Breite Straße vor Schwedter Straße,53.095097,14.293461,,,
-de:12073:900341237::1,"Vierraden, Gatow Abzweig",,Bushalt Schwedenweg vor Gartzer Straße,53.10004,14.302683,,,
-de:12073:900341238::1,"Vierraden, Hafen",,Bushalt Hafenstraße Richtung Norden,53.099075,14.320081,,,
-de:12073:900341238::2,"Vierraden, Hafen",,Bushalt Hafenstraße Richtung Süden,53.0987,14.319782,,,
-de:12073:900341239::1,"Vierraden, Hafenstr.",,Bushalt Schwedenweg hinter Hafenstraße,53.102543,14.314146,,,
-de:12073:900341239::2,"Vierraden, Hafenstr.",,Bushalt Hafenstraße,53.10216,14.313521,,,
-de:12073:900341240::1,"Vierraden, Kreuzung",,Bushalt Gartzer Straße hinter Am Turm,53.098347,14.299809,,,
-de:12073:900341240::2,"Vierraden, Kreuzung",,Bushalt Gartzer Straße vor Am Turm,53.0985,14.300045,,,
-de:12073:900341241::1,"Vierraden, Lindenhof",,Bushalt Chausseestraße vor Schwedter Straße,53.090645,14.29411,,,
-de:12073:900341241::2,"Vierraden, Lindenhof",,Bushalt Chausseestraße hinter Schwedter Straße,53.090614,14.293994,,,
-de:12073:900341242::1,"Vierraden, Markt",,Bushalt Am Markt hinter Breite Straße,53.096684,14.296338,,,
-de:12073:900341242::2,"Vierraden, Markt",,Bushalt Am Markt vor Breite Straße,53.096752,14.296346,,,
-de:12073:900341243::1,"Vierraden, Milchviehanlage",,Bushalt Schwedenweg vor Ausbau Gatow,53.10421,14.321564,,,
-de:12073:900341243::2,"Vierraden, Milchviehanlage",,Bushalt Schwedenweg hinter Ausbau Gatow,53.10424,14.321536,,,
-de:12073:900341245::1,"Vierraden, Schwedter Str.",,Bushalt Schwedter Straße vor Fuchsweg,53.093063,14.293933,,,
-de:12073:900341245::2,"Vierraden, Schwedter Str.",,Bushalt Schwedter Straße hinter Fuchsweg,53.093266,14.293792,,,
-de:12073:900341252::1,"Wartin, Am Feldrain",,Bushalt Hauptstraße vor Am Kuhberg,53.246754,14.153131,,,
-de:12073:900341252::2,"Wartin, Am Feldrain",,Bushalt Hauptstraße hinter Am Kuhberg,53.246616,14.152742,,,
-de:12073:900341253::1,"Wartin, Ausbau",,Bushalt Blumberger Damm Richtung Norden,53.23781,14.147789,,,
-de:12073:900341253::2,"Wartin, Ausbau",,Bushalt Blumberger Damm Richtung Süden,53.237698,14.147615,,,
-de:12073:900341254::1,"Wartin, Ausbau Süd",,Bushalt Casekower Chaussee Richtung Norden,53.238724,14.168924,,,
-de:12073:900341254::2,"Wartin, Ausbau Süd",,Bushalt Casekower Chaussee Richtung Süden,53.238663,14.168842,,,
-de:12073:900341255::1,"Wartin, Mitte",,Bushalt Hauptstraße hinter Kleine Dorfstraße,53.250427,14.156533,,,
-de:12073:900341256::1,"Wartin, Nord",,Bushalt Sommersdorfer Straße hinter Grünzer Weg,53.255257,14.159408,,,
-de:12073:900341257::1,"Wartin, Siedlung",,Bushalt Casekower Chaussee Richtung Norden,53.24586,14.164143,,,
-de:12073:900341257::2,"Wartin, Siedlung",,Bushalt Casekower Chaussee Richtung Süden,53.245728,14.164057,,,
-de:12073:900341263::1,"Welsow, Bruchhagener Str.",,Bushalt Bruchhagener Weg Richtung Westen,53.07087,13.98164,,,
-de:12073:900341263::2,"Welsow, Bruchhagener Str.",,Bushalt Bruchhagener Weg Richtung Osten,53.07083,13.981683,,,
-de:12073:900341264::1,"Welsow, Mitte",,Bushalt Am Töpferberg vor Bruchhagener Weg,53.06908,14.001735,,,
-de:12073:900341270:1:50,"Wilmersdorf (bei Angermünde), Bahnhof",de:12073:900341270,Bahnsteig Gleis 1,53.111656,13.892572,,1,1
-de:12073:900341270:2:51,"Wilmersdorf (bei Angermünde), Bahnhof",de:12073:900341270,Bahnsteig Gleis 2,53.112576,13.891701,,1,2
-de:12073:900341270:2:52,"Wilmersdorf (bei Angermünde), Bahnhof",de:12073:900341270,Bahnsteig Gleis 3,53.11256,13.891653,,1,3
-de:12073:900341270::1,"Wilmersdorf (bei Angermünde), Bahnhof",,Bushalt Straße zum Bahnhof vor dem Bahnhofsgebäude,53.111736,13.892968,,1,
-de:12073:900341271::1,"Wilmersdorf (bei Angermünde), Bahnhof",,Bushalt L24 vor Straße Zum Bahnhof Richtung Pfingstberg,53.114056,13.894627,,,
-de:12073:900341271::2,"Wilmersdorf (bei Angermünde), Bahnhof",,Bushalt L24 hinter Straße zum Bahnhof in Richtung Wilmersdorf,53.113674,13.89574,,,
-de:12073:900341272::1,"Wilmersdorf (bei Angermünde), Mitte",,Bushalt Wilmersdorfer Straße in der Wendeschleife,53.11114,13.905752,,,
-de:12073:900341277::1,"Wolletz, Klinik",,Bushalt Zur Welse vor der Klinik,53.025536,13.906053,,,
-de:12073:900341278::1,"Wolletz, Mitte",,Bushalt Zur Kastanienallee vor Zur Apfelallee,53.024757,13.901386,,,
-de:12073:900341285::1,"Woltersdorf (UM), Casekower Str.",,Bushalt Casekower Straße hinter Hohenselchower Weg,53.182697,14.217054,,,
-de:12073:900341285::2,"Woltersdorf (UM), Casekower Str.",,Bushalt Casekower Straße vor Hohenselchower Weg,53.182407,14.216946,,,
-de:12073:900341286::1,"Woltersdorf (UM), Mitte",,Bushalt Kunower Straße vor Casekower Damm,53.179432,14.218113,,,
-de:12073:900341286::2,"Woltersdorf (UM), Mitte",,Bushalt Kunower Straße hinter Casekower Damm,53.179203,14.218226,,,
-de:12073:900341311::1,Zuchenberg,,Bushalt Lindenallee Richtung Südwest,52.99757,13.943505,,,
-de:12073:900341340::1,"Leopoldsthal, Nord",,Bushalt Leopoldsthaler Straße Richtung Südost,53.148293,14.001918,,,
-de:12073:900341342::1,"Leopoldsthal, Süd",,Bushalt Leopoldsthaler Straße Richtung Südost,53.144867,14.007137,,,
-de:13075:6567:1:1,Heinrichshof Abzweig,,,53.71561,13.864571,,,
-de:13075:6570:1:1,Heinrichshof,,,53.714035,13.860915,,,
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station,wheelchair_boarding,platform_code,zone_id
+500000505801,,"Görlsdorf (UM), Wendeschleife",,53.053647000000,13.944682000000,0,,0,,"4364 Görlsdorf (UM), Wendeschleife"
+500000505901,,"Crussow, Zur Eiche",,52.991954000000,14.074366000000,0,,0,,"4466 Crussow, Zur Eiche"
+de:12060:900350568::1,,"Lüdersdorf (bei Oderberg), Dorf",Bushalt Dorfstraße hinter Parsteiner Straße,52.933806000000,14.074315000000,0,,0,,"4666 Lüdersdorf (bei Oderberg), Dorf"
+de:12060:900350568::2,,"Lüdersdorf (bei Oderberg), Dorf",Bushalt Dorfstraße vor Parsteiner Straße,52.933714000000,14.074178000000,0,,0,,"4666 Lüdersdorf (bei Oderberg), Dorf"
+de:12060:900350570::1,,"Lüdersdorf (bei Oderberg), Abzweig Stolzenhagen",Bushalt K 6014 vor Dorfstraße,52.935897000000,14.075959000000,0,,0,,"4666 Lüdersdorf (bei Oderberg), Abzweig Stolzenhagen"
+de:12060:900350572::1,,"Lunow, Ausbau",Bushalt Hohensaatener Straße Richtung Südosten,52.914481000000,14.116775000000,0,,0,,"4667 Lunow, Ausbau"
+de:12060:900350572::2,,"Lunow, Ausbau",Bushalt Hohensaatener Straße Richtung Nordwesten,52.914327000000,14.117030000000,0,,0,,"4667 Lunow, Ausbau"
+de:12060:900350573::1,,"Lunow, Dorf",Bushalt Lüdersdorfer Straße vor Kameruner Straße,52.922938000000,14.114394000000,0,,0,,"4667 Lunow, Dorf"
+de:12060:900350573::2,,"Lunow, Dorf",Bushalt Lüdensdorfer Straße vor Stolzenhagener Straße,52.922916000000,14.115109000000,0,,0,,"4667 Lunow, Dorf"
+de:12060:900350574::1,,"Lunow, Kreuzung",Bushalt Oderberger Straße vor Hohensaatener Straße,52.919969000000,14.116889000000,0,,0,,"4667 Lunow, Kreuzung"
+de:12060:900350574::2,,"Lunow, Kreuzung",Bushalt Kreuzung,52.920250000000,14.117316000000,0,,0,,"4667 Lunow, Kreuzung"
+de:12060:900350576::1,,"Lunow, Steinberg",Bushalt L 283 hinter Oderberger Straße,52.926691000000,14.092002000000,0,,0,,"4667 Lunow, Steinberg"
+de:12060:900350576::2,,"Lunow, Steinberg",Bushalt L 283 vor Oderberger Straße,52.926767000000,14.092002000000,0,,0,,"4667 Lunow, Steinberg"
+de:12060:900350637::1,,Parstein,Bushalt Angermünder Straße vor Lüdersdorfer Straße,52.932982000000,14.036583000000,0,,0,,4666 Parstein
+de:12060:900350637::2,,Parstein,Bushalt Lüdersdorfer Straße vor Angermünder Straße,52.933033000000,14.037993000000,0,,0,,4666 Parstein
+de:12060:900350637::3,,Parstein,Bushalt Oderberger Straße vor Lüdersdorfer Straße,52.932340000000,14.036888000000,0,,0,,4666 Parstein
+de:12060:900350714::1,,"Stolzenhagen (bei Oderberg), Ortseingang",Bushalt Elsengrund hinter Weinbergstraße,52.944551000000,14.097184000000,0,,0,,"4667 Stolzenhagen (bei Oderberg), Ortseingang"
+de:12060:900350714::2,,"Stolzenhagen (bei Oderberg), Ortseingang",Bushalt Elsengrund vor Weinbergstraße,52.944503000000,14.097111000000,0,,0,,"4667 Stolzenhagen (bei Oderberg), Ortseingang"
+de:12060:900350719::1,,"Stolzenhagen (bei Oderberg), Wendestelle",Bushalt Elsengrund vor Kastanienallee,52.948805000000,14.100024000000,0,,0,,"4667 Stolzenhagen (bei Oderberg), Wendestelle"
+de:12073:900340004:1:50,,"Angermünde, Bahnhof",Bahnsteig Gleis 1,53.015855000000,13.996267000000,0,de:12073:900340004,1,1,"4465 Angermünde, Bahnhof"
+de:12073:900340004:2:51,,"Angermünde, Bahnhof",Bahnsteig Gleis 2,53.015838000000,13.996184000000,0,de:12073:900340004,1,2,"4465 Angermünde, Bahnhof"
+de:12073:900340004:3:52,,"Angermünde, Bahnhof",Bahnsteig Gleis 3,53.015791000000,13.995908000000,0,de:12073:900340004,1,3,"4465 Angermünde, Bahnhof"
+de:12073:900340004:3:53,,"Angermünde, Bahnhof",Bahnsteig Gleis 4,53.017014000000,13.994776000000,0,de:12073:900340004,1,4,"4465 Angermünde, Bahnhof"
+de:12073:900340004:3:54,,"Angermünde, Bahnhof",Bahnsteig Gleis 5,53.015740000000,13.995672000000,0,de:12073:900340004,1,5,"4465 Angermünde, Bahnhof"
+de:12073:900340004::1,,"Angermünde, Bahnhof",Bussteig Position 1,53.015513000000,13.997178000000,0,,1,,"4465 Angermünde, Bahnhof"
+de:12073:900340004::2,,"Angermünde, Bahnhof",Bussteig Position 2,53.015638000000,13.997161000000,0,,1,,"4465 Angermünde, Bahnhof"
+de:12073:900340004::3,,"Angermünde, Bahnhof",Bussteig Position 3,53.015737000000,13.997084000000,0,,1,,"4465 Angermünde, Bahnhof"
+de:12073:900340004::4,,"Angermünde, Bahnhof",Bussteig Position 4,53.015825000000,13.997012000000,0,,1,,"4465 Angermünde, Bahnhof"
+de:12073:900340004::5,,"Angermünde, Bahnhof",Bussteig Position 5,53.015913000000,13.996944000000,0,,1,,"4465 Angermünde, Bahnhof"
+de:12073:900340004::6,,"Angermünde, Bahnhof",Bussteig Position 6,53.015234000000,13.997620000000,0,,1,,"4465 Angermünde, Bahnhof"
+de:12073:900340005::1,,"Altkünkendorf, Luisenhof",Bushalt K 7346 in Richtung Südwesten,53.007496000000,13.914822000000,0,,0,,"4463 Altkünkendorf, Luisenhof"
+de:12073:900340005::2,,"Altkünkendorf, Luisenhof",Bushalt K 7346 vor Schmargendorfer Straße,53.007469000000,13.914839000000,0,,0,,"4463 Altkünkendorf, Luisenhof"
+de:12073:900340006::1,,"Altkünkendorf, Mitte",Bushalt Altkünkendorfer Straße vor Pflasterdamm,53.007740000000,13.877450000000,0,,0,,"4463 Altkünkendorf, Mitte"
+de:12073:900340006::2,,"Altkünkendorf, Mitte",Bushalt Altkünkendorfer Straße in Richtung Osten,53.007666000000,13.877273000000,0,,0,,"4463 Altkünkendorf, Mitte"
+de:12073:900340019::1,,"Biesenbrow, Mitte",Bushalt Heidenstraße vor Hirtenende,53.119017000000,14.015828000000,0,,0,,"4265 Biesenbrow, Mitte"
+de:12073:900340019::2,,"Biesenbrow, Mitte",Bushalt Hirtenstraße hinter Hirtenende,53.119104000000,14.015836000000,0,,0,,"4265 Biesenbrow, Mitte"
+de:12073:900340020::1,,"Biesendahlshof, Abzweig",Bushalt L 272 in Richtung Norden,53.199156000000,14.213114000000,0,,0,,"3968 Biesendahlshof, Abzweig"
+de:12073:900340020::2,,"Biesendahlshof, Abzweig",Bushalt L 272 vor Lindenallee,53.199506000000,14.212894000000,0,,0,,"3968 Biesendahlshof, Abzweig"
+de:12073:900340021::1,,"Biesendahlshof, Lindenallee",Bushalt Lindenallee vor L 272,53.198098000000,14.210958000000,0,,0,,"3968 Biesendahlshof, Lindenallee"
+de:12073:900340021::2,,"Biesendahlshof, Lindenallee",Bushalt Lindenallee hinter L 272,53.198523000000,14.211489000000,0,,0,,"3968 Biesendahlshof, Lindenallee"
+de:12073:900340022::1,,"Biesendahlshof, Mitte",Bushalt Lindenallee hinter Woltersdorfer Landweg,53.195128000000,14.207588000000,0,,0,,"3968 Biesendahlshof, Mitte"
+de:12073:900340022::2,,"Biesendahlshof, Mitte",Bushalt Lindenallee vor Speicherstraße,53.195070000000,14.207522000000,0,,0,,"3968 Biesendahlshof, Mitte"
+de:12073:900340024::1,,"Biesenbrow, Schäfereiweg",Bushalt Landstraße Richtung Biesenbrow,53.126140000000,14.015985000000,0,,0,,"4265 Biesenbrow, Schäfereiweg"
+de:12073:900340032::1,,"Blumberg (UM), Abzweig",Bushalt Wartiner Chaussee hinter Luckower Damm,53.223336000000,14.184638000000,0,,0,,"3968 Blumberg (UM), Abzweig"
+de:12073:900340032::2,,"Blumberg (UM), Abzweig",Bushalt Wartiner Chaussee vor Luckower Damm,53.223265000000,14.184584000000,0,,0,,"3968 Blumberg (UM), Abzweig"
+de:12073:900340034::1,,"Blumenhagen (UM), Abzweig",Bushalt B 2 vor Lauseberg Richtung Norden,53.109092000000,14.303457000000,0,,0,,"4269 Blumenhagen (UM), Abzweig"
+de:12073:900340034::2,,"Blumenhagen (UM), Abzweig",Bushalt B 2 vor Lauseberg Richtung Süden,53.109456000000,14.303548000000,0,,0,,"4269 Blumenhagen (UM), Abzweig"
+de:12073:900340035::1,,"Blumenhagen (UM), Mitte",Bushalt Zu den Müllerbergen hinter Schulgang,53.114209000000,14.292100000000,0,,0,,"4269 Blumenhagen (UM), Mitte"
+de:12073:900340035::2,,"Blumenhagen (UM), Mitte",Bushalt Zu den Müllerbergen vor Schulgang,53.113986000000,14.291983000000,0,,0,,"4269 Blumenhagen (UM), Mitte"
+de:12073:900340036::1,,"Blumenhagen (UM), Wildbahn",Bushalt Wildbahn Richtung Norden,53.118521000000,14.307520000000,0,,0,,"4269 Blumenhagen (UM), Wildbahn"
+de:12073:900340036::2,,"Blumenhagen (UM), Wildbahn",Bushalt Wildbahn Richtung Süden,53.118393000000,14.307407000000,0,,0,,"4269 Blumenhagen (UM), Wildbahn"
+de:12073:900340038::1,,Bölkendorf,Bushalt L 283 vor Bölkendorfer Straße,52.950890000000,14.000207000000,0,,0,,4565 Bölkendorf
+de:12073:900340044::1,,"Bruchhagen, Abzweig",Bushalt B 198 vor Straße zum Ausbau,53.073952000000,13.959605000000,0,,0,,"4264 Bruchhagen, Abzweig"
+de:12073:900340044::2,,"Bruchhagen, Abzweig",Bushalt B 198 hinter Straße zum Ausbau,53.073876000000,13.959570000000,0,,0,,"4264 Bruchhagen, Abzweig"
+de:12073:900340045::1,,"Bruchhagen, Mitte",Bushalt Schöne Aussicht hinter Straße zum Ausbau,53.080720000000,13.971324000000,0,,0,,"4264 Bruchhagen, Mitte"
+de:12073:900340045::2,,"Bruchhagen, Mitte",Bushalt Schöne Aussicht vor Straße zum Ausbau,53.080683000000,13.971272000000,0,,0,,"4264 Bruchhagen, Mitte"
+de:12073:900340061:1:50,,"Casekow, Bahnhof",Bahnsteig Gleis 1,53.213598000000,14.208461000000,0,de:12073:900340061,1,,"3968 Casekow, Bahnhof"
+de:12073:900340061::1,,"Casekow, Bahnhof",Bushalt Bahnhofstraße hinter Woltersdorfer Straße,53.213470000000,14.207765000000,0,,1,,"3968 Casekow, Bahnhof"
+de:12073:900340061::2,,"Casekow, Bahnhof",Bushalt Bahnhofstraße hinter Mühlenweg,53.213545000000,14.207518000000,0,,1,,"3968 Casekow, Bahnhof"
+de:12073:900340062::1,,"Casekow, Hohenselchower Str.",Bushalt Hohenselchower Straße vor Schulstraße,53.211059000000,14.210052000000,0,,0,,"3968 Casekow, Hohenselchower Str."
+de:12073:900340062::2,,"Casekow, Hohenselchower Str.",Bushalt Hohenselchower Straße hinter Schulstraße,53.211024000000,14.209759000000,0,,0,,"3968 Casekow, Hohenselchower Str."
+de:12073:900340063::1,,"Casekow, Mitte",Bushalt Woltersdorfer Straße vor Hohenselchower Straße,53.210562000000,14.208202000000,0,,0,,"3968 Casekow, Mitte"
+de:12073:900340063::2,,"Casekow, Mitte",Bushalt Woltersdorfer Straße hinter Hohenselchower Straße,53.210954000000,14.208138000000,0,,0,,"3968 Casekow, Mitte"
+de:12073:900340064::1,,"Casekow, Schule",Bushalt Schulstraße vor Hohenselchower Straße,53.210306000000,14.208429000000,0,,0,,"3968 Casekow, Schule"
+de:12073:900340069::1,,"Criewen, Försterei",Bushalt Vorwerk vor Revierförsterei,53.025414000000,14.203041000000,0,,0,,"4368 Criewen, Försterei"
+de:12073:900340069::2,,"Criewen, Försterei",Bushalt Revierförsterei vor Vorwerk,53.025855000000,14.202468000000,0,,0,,"4368 Criewen, Försterei"
+de:12073:900340070::1,,"Criewen, Försterei Abzweig",Bushalt L 284 in Richtung Westen,53.026212000000,14.202781000000,0,,0,,"4368 Criewen, Försterei Abzweig"
+de:12073:900340070::2,,"Criewen, Försterei Abzweig",Bushalt L 284 hinter Revierförsterei,53.026099000000,14.203241000000,0,,0,,"4368 Criewen, Försterei Abzweig"
+de:12073:900340076::1,,"Crussow, Abzweig Felchower Str.",Bushalt K 7359 vor Felchower Straße,53.005533000000,14.083366000000,0,,0,,"4466 Crussow, Abzweig Felchower Str."
+de:12073:900340076::2,,"Crussow, Abzweig Felchower Str.",Bushalt  K 7359 hinter Felchower Straße,53.005510000000,14.083477000000,0,,0,,"4466 Crussow, Abzweig Felchower Str."
+de:12073:900340077::1,,"Crussow, Mitte",Bushalt Angermünder Straße hinter Sandangerweg,53.000090000000,14.078907000000,0,,0,,"4466 Crussow, Mitte"
+de:12073:900340077::2,,"Crussow, Mitte",Bushalt Angermünder Straße vor Steinstraße,53.000238000000,14.078719000000,0,,0,,"4466 Crussow, Mitte"
+de:12073:900340078::1,,"Crussow, Neubau",Bushalt Angermünder Straße hinter Gellmerdorfer Straße,52.998450000000,14.085596000000,0,,0,,"4466 Crussow, Neubau"
+de:12073:900340078::2,,"Crussow, Neubau",Bushalt Angermünder Straße vor Felchower Straße,52.998398000000,14.086216000000,0,,0,,"4466 Crussow, Neubau"
+de:12073:900340079::1,,"Crussow, Nord",Bushalt Felchower Straße hinter Angermünde Straße,53.001225000000,14.081552000000,0,,0,,"4466 Crussow, Nord"
+de:12073:900340079::2,,"Crussow, Nord",Bushalt Felchower Straße hinter Steinstraße,53.001427000000,14.081620000000,0,,0,,"4466 Crussow, Nord"
+de:12073:900340081::1,,"Crussow, Gellmersdorfer Str.",Bushalt Gellmersdorfer Straße hinter Weg nach Wilhelmsfelde,52.995637000000,14.076085000000,0,,0,,"4466 Crussow, Gellmersdorfer Str."
+de:12073:900340085::1,,"Damitzow, Mitte",Bushalt Damitzower Straße hinter B 113,53.285791000000,14.330431000000,0,,0,,"3770 Damitzow, Mitte"
+de:12073:900340085::2,,"Damitzow, Mitte",Bushalt Damitzower Straße vor B 113,53.285563000000,14.330369000000,0,,0,,"3770 Damitzow, Mitte"
+de:12073:900340092::1,,"Dobberzin, Mitte",Bushalt Schwedter Straße hinter Dobberziner Dorfstraße,53.020809000000,14.033259000000,0,,0,,"4366 Dobberzin, Mitte"
+de:12073:900340092::2,,"Dobberzin, Mitte",Bushalt Schwedter Straße vor Dobberziner Dorfstraße,53.020751000000,14.033538000000,0,,0,,"4366 Dobberzin, Mitte"
+de:12073:900340093::1,,"Dobberzin, Abzweig Kerkower Str.",Bushalt Schwedter Straße hinter Kerkower Straße,53.023179000000,14.040516000000,0,,0,,"4366 Dobberzin, Abzweig Kerkower Str."
+de:12073:900340093::2,,"Dobberzin, Abzweig Kerkower Str.",Bushalt Schwedter Straße hinter Poststraße,53.023265000000,14.040858000000,0,,0,,"4366 Dobberzin, Abzweig Kerkower Str."
+de:12073:900340098::1,,"Flemsdorf, Mitte",Bushalt Flemsdorfer Dorfstraße hinter Witschaftsweg,53.030660000000,14.170941000000,0,,0,,"4368 Flemsdorf, Mitte"
+de:12073:900340098::2,,"Flemsdorf, Mitte",Bushalt Flemsdorfer Dorfstraße vor Johannishofer Weg,53.030669000000,14.168221000000,0,,0,,"4368 Flemsdorf, Mitte"
+de:12073:900340099::1,,"Flemsdorf, Neubau",Bushalt Flemsdorfer Dorfstraße Richtung Südwesten,53.031305000000,14.174318000000,0,,0,,"4368 Flemsdorf, Neubau"
+de:12073:900340100::1,,"Angermünde, Am Markt",Bushalt Am Markt Position 1,53.018898000000,14.003795000000,0,,0,,"4465 Angermünde, Am Markt"
+de:12073:900340100::2,,"Angermünde, Am Markt",Bushalt Am Markt Position 2,53.018869000000,14.004027000000,0,,0,,"4465 Angermünde, Am Markt"
+de:12073:900340100::3,,"Angermünde, Am Markt",Bushalt Am Markt Position 3,53.018841000000,14.004267000000,0,,0,,"4465 Angermünde, Am Markt"
+de:12073:900340100::4,,"Angermünde, Am Markt",Bushalt Am Markt Position 4,53.018803000000,14.004559000000,0,,0,,"4465 Angermünde, Am Markt"
+de:12073:900340100::5,,"Angermünde, Am Markt",Bushalt Am Markt Position 5,53.018769000000,14.004879000000,0,,0,,"4465 Angermünde, Am Markt"
+de:12073:900340101::1,,"Angermünde, Bahnüberfahrtshaus",Bushalt B 158 in Richtung Südosten,52.995947000000,14.024157000000,0,,0,,"4465 Angermünde, Bahnüberfahrtshaus"
+de:12073:900340101::2,,"Angermünde, Bahnüberfahrtshaus",Bushalt B 158 in Richtung Nordwesten,52.995944000000,14.024364000000,0,,0,,"4465 Angermünde, Bahnüberfahrtshaus"
+de:12073:900340106::1,,"Angermünde, Büchnerstr.",Bushalt Büchnerstraße vor Heinestraße,53.013245000000,14.023393000000,0,,0,,"4465 Angermünde, Büchnerstr."
+de:12073:900340106::2,,"Angermünde, Büchnerstr.",Bushalt Büchnerstraße hinter Heinestraße,53.013240000000,14.023302000000,0,,0,,"4465 Angermünde, Büchnerstr."
+de:12073:900340107::1,,"Angermünde, Chausseehaus",Bushalt B 158 in Richtung Osten,52.998534000000,14.010620000000,0,,0,,"4465 Angermünde, Chausseehaus"
+de:12073:900340107::2,,"Angermünde, Chausseehaus",Bushalt B 158 in Richtung Westen,52.998601000000,14.010631000000,0,,0,,"4465 Angermünde, Chausseehaus"
+de:12073:900340108::1,,"Angermünde, Ehm-Welk-Str.",Bushalt Puschkinallee vor Am Plattenwerk,53.011216000000,13.994100000000,0,,0,,"4465 Angermünde, Ehm-Welk-Str."
+de:12073:900340108::2,,"Angermünde, Ehm-Welk-Str.",Bushalt Puschkinallee vor Ehm-Welk-Straße,53.011616000000,13.994766000000,0,,0,,"4465 Angermünde, Ehm-Welk-Str."
+de:12073:900340109::1,,"Angermünde, Eigenheimsiedlung",Bushalt Sternfelder Straße vor Birkenallee,53.003594000000,13.981014000000,0,,0,,"4465 Angermünde, Eigenheimsiedlung"
+de:12073:900340109::2,,"Angermünde, Eigenheimsiedlung",Bushalt Sternfelder Straße hinter Kastanienallee,53.003570000000,13.980877000000,0,,0,,"4465 Angermünde, Eigenheimsiedlung"
+de:12073:900340110::1,,"Angermünde, Einkaufscenter",Bushalt Prenzlauer Straße vor Am Krötenberg,53.022337000000,13.999873000000,0,,0,,"4465 Angermünde, Einkaufscenter"
+de:12073:900340110::2,,"Angermünde, Einkaufscenter",Bushalt Prenzlauer Straße hinter Alte Templiner Straße,53.022014000000,13.999902000000,0,,0,,"4465 Angermünde, Einkaufscenter"
+de:12073:900340111::1,,"Angermünde, Schwedter Str.",Bushalt Schwedter Straße vor Zur Hamey,53.016519000000,14.014626000000,0,,0,,"4465 Angermünde, Schwedter Str."
+de:12073:900340111::2,,"Angermünde, Schwedter Str.",Bushalt Schwedter Straße hinter An der Umgehungsstraße,53.016446000000,14.013368000000,0,,0,,"4465 Angermünde, Schwedter Str."
+de:12073:900340112::1,,"Angermünde, Fischerstr.",Bushalt Fischerstraße vor Schloßwall,53.020104000000,14.003233000000,0,,0,,"4465 Angermünde, Fischerstr."
+de:12073:900340114::1,,"Angermünde, G.-Wolff-Str.",Bushalt Pestalozzistraße in Richtung Süden,53.017602000000,13.981030000000,0,,0,,"4465 Angermünde, G.-Wolff-Str."
+de:12073:900340114::2,,"Angermünde, G.-Wolff-Str.",Bushalt Pestalozzistraße vor Georg-Wolff-Straße,53.017692000000,13.981119000000,0,,0,,"4465 Angermünde, G.-Wolff-Str."
+de:12073:900340119::1,,"Angermünde, Kaisergarten",Bushalt Klosterstraße vor Ring,53.016488000000,14.008111000000,0,,0,,"4465 Angermünde, Kaisergarten"
+de:12073:900340120::1,,"Angermünde, Kalksandsteinwerk",Bushalt Berliner Tor in Richtung Süden,52.991718000000,13.981486000000,0,,0,,"4465 Angermünde, Kalksandsteinwerk"
+de:12073:900340120::2,,"Angermünde, Kalksandsteinwerk",Bushalt Berliner Tor in Richtung Norden,52.991763000000,13.981770000000,0,,0,,"4465 Angermünde, Kalksandsteinwerk"
+de:12073:900340121::1,,"Angermünde, Kloster",Bushalt Klosterstraße vor Lösenergasse,53.016046000000,14.003689000000,0,,0,,"4465 Angermünde, Kloster"
+de:12073:900340121::2,,"Angermünde, Kloster",Bushalt Klosterstraße hinter Zur Stadtmauer,53.016037000000,14.004266000000,0,,0,,"4465 Angermünde, Kloster"
+de:12073:900340122::1,,"Angermünde, Krankenhaus",Bushalt Rudolf-Breitscheid-Straße hinter Bergstraße,53.013353000000,13.987551000000,0,,0,,"4465 Angermünde, Krankenhaus"
+de:12073:900340122::2,,"Angermünde, Krankenhaus",Bushalt Rudolf-Breitscheid-Straße vor Triftstraße,53.013276000000,13.987631000000,0,,0,,"4465 Angermünde, Krankenhaus"
+de:12073:900340123::1,,"Angermünde, Leistenhof",Bushalt Berliner Tor in Richtung Süden,52.999366000000,13.986952000000,0,,0,,"4465 Angermünde, Leistenhof"
+de:12073:900340123::2,,"Angermünde, Leistenhof",Bushalt Berliner Tor hinter Leistenhof,52.999815000000,13.987344000000,0,,0,,"4465 Angermünde, Leistenhof"
+de:12073:900340124::1,,"Angermünde, Pestalozzistr.",Bushalt Pestalozzistraße vor Rudolf-Breitscheid-Straße,53.013466000000,13.982127000000,0,,0,,"4465 Angermünde, Pestalozzistr."
+de:12073:900340124::2,,"Angermünde, Pestalozzistr.",Bushalt Pestalozzistraße vor Birkenweg,53.013666000000,13.982119000000,0,,0,,"4465 Angermünde, Pestalozzistr."
+de:12073:900340125::1,,"Angermünde, Prenzlauer Str.",Bushalt Prenzlauer Straße vor Mürower Weg,53.024051000000,13.998336000000,0,,0,,"4465 Angermünde, Prenzlauer Str."
+de:12073:900340125::2,,"Angermünde, Prenzlauer Str.",Bushalt Prenzlauer Straße vor Templiner Straße,53.023789000000,13.998395000000,0,,0,,"4465 Angermünde, Prenzlauer Str."
+de:12073:900340126::1,,"Angermünde, Puschkinallee",Bushalt Puschkinallee hinter Sternfelder Straße,53.002835000000,13.988540000000,0,,0,,"4465 Angermünde, Puschkinallee"
+de:12073:900340126::2,,"Angermünde, Puschkinallee",Bushalt Puschkinallee hinter Berliner Tor,53.002834000000,13.988696000000,0,,0,,"4465 Angermünde, Puschkinallee"
+de:12073:900340127::1,,"Angermünde, Berliner Str.",Bushalt Berliner Straße hinter Kirchgasse,53.019256000000,14.001557000000,0,,0,,"4465 Angermünde, Berliner Str."
+de:12073:900340127::2,,"Angermünde, Berliner Str.",Bushalt Berliner Straße vor Himmelsleiter,53.018650000000,14.001300000000,0,,0,,"4465 Angermünde, Berliner Str."
+de:12073:900340128::1,,"Angermünde, Rosenstr.",Bushalt Berliner Straße vor Rosenstraße,53.016779000000,14.000624000000,0,,0,,"4465 Angermünde, Rosenstr."
+de:12073:900340128::2,,"Angermünde, Rosenstr.",Bushalt Berliner Straße hinter Ring,53.017198000000,14.000707000000,0,,0,,"4465 Angermünde, Rosenstr."
+de:12073:900340129::1,,"Angermünde, Schillerplatz",Bushalt Schillerplatz vor Büchnerstraße,53.011105000000,14.022160000000,0,,0,,"4465 Angermünde, Schillerplatz"
+de:12073:900340130::1,,"Angermünde, Schwedter Tor",Bushalt Mudrowweg vor Schwedter Straße,53.015536000000,14.017131000000,0,,0,,"4465 Angermünde, Schwedter Tor"
+de:12073:900340130::2,,"Angermünde, Schwedter Tor",Bushalt Murdrowweg hinter B 2,53.015616000000,14.016916000000,0,,0,,"4465 Angermünde, Schwedter Tor"
+de:12073:900340131::1,,"Angermünde, Am Sportplatz",Bushalt Jahnstraße hinter Bergstraße,53.015848000000,13.986862000000,0,,0,,"4465 Angermünde, Am Sportplatz"
+de:12073:900340131::2,,"Angermünde, Am Sportplatz",Bushalt Jahnstraße vor Rudolf-Harbig-Straße,53.015884000000,13.986834000000,0,,0,,"4465 Angermünde, Am Sportplatz"
+de:12073:900340132::1,,"Angermünde, Sternfelder Weg",Bushalt Sternfelder Straße hinter Puschkinallee,53.003264000000,13.988252000000,0,,0,,"4465 Angermünde, Sternfelder Weg"
+de:12073:900340132::2,,"Angermünde, Sternfelder Weg",Bushalt Sternfelder Straße vor Puschkinallee,53.003244000000,13.988350000000,0,,0,,"4465 Angermünde, Sternfelder Weg"
+de:12073:900340133::1,,"Angermünde, Tierpark",Bushalt Puschkinallee hinter Am Plattenwerk,53.008631000000,13.991247000000,0,,0,,"4465 Angermünde, Tierpark"
+de:12073:900340133::2,,"Angermünde, Tierpark",Bushalt Puschkinallee vor Espelkamper Weg,53.008919000000,13.991481000000,0,,0,,"4465 Angermünde, Tierpark"
+de:12073:900340134::1,,"Angermünde, Umspannwerk",Bushalt Prenzlauer Straße in Richtung Norden,53.027816000000,13.994515000000,0,,0,,"4465 Angermünde, Umspannwerk"
+de:12073:900340134::2,,"Angermünde, Umspannwerk",Bushalt Prenzlauer Straße in Richtung Süden,53.028322000000,13.994043000000,0,,0,,"4465 Angermünde, Umspannwerk"
+de:12073:900340135::1,,"Angermünde, Bildungswerk",Bushalt Schwedter Straße vor An der MTS,53.016956000000,14.019496000000,0,,0,,"4465 Angermünde, Bildungswerk"
+de:12073:900340135::2,,"Angermünde, Bildungswerk",Bushalt Schwedter Straße hinter Mudrowweg,53.016855000000,14.019480000000,0,,0,,"4465 Angermünde, Bildungswerk"
+de:12073:900340136::1,,"Angermünde, Blumberger Mühle",Bushalt Blumenberger Mühle in Richtung Westen,53.035890000000,13.967410000000,0,,0,,"4364 Angermünde, Blumberger Mühle"
+de:12073:900340137::1,,"Angermünde, Breitscheidstr.",Bushalt Rudolf-Breitscheid-Straße hinter Grundmühlenweg,53.013816000000,13.993066000000,0,,0,,"4465 Angermünde, Breitscheidstr."
+de:12073:900340137::2,,"Angermünde, Breitscheidstr.",Bushalt Rudolf-Breitscheid-Straße hinter Triftstraße,53.013850000000,13.993433000000,0,,0,,"4465 Angermünde, Breitscheidstr."
+de:12073:900340138::1,,"Angermünde, Bruhnschule",Bushalt Rudolf-Harbig-Straße vor Weg an der Bruhnhalle,53.017757000000,13.984286000000,0,,0,,"4465 Angermünde, Bruhnschule"
+de:12073:900340138::2,,"Angermünde, Bruhnschule",Bushalt Georg-Wolf-Straße vor Rudolf-Harbig-Straße,53.018039000000,13.983820000000,0,,0,,"4465 Angermünde, Bruhnschule"
+de:12073:900340139::1,,"Angermünde, Gehegemühle",Bushalt Gehegemühle in Richtung Westen,53.011720000000,13.947897000000,0,,0,,"4465 Angermünde, Gehegemühle"
+de:12073:900340139::2,,"Angermünde, Gehegemühle",Bushalt Gehegemühle in Richtung Osten,53.011844000000,13.948079000000,0,,0,,"4465 Angermünde, Gehegemühle"
+de:12073:900340140::1,,"Angermünde, Herwegh Str.",Bushalt Herweghstraße in Richtung Westen,53.014352000000,14.021558000000,0,,0,,"4465 Angermünde, Herwegh Str."
+de:12073:900340140::2,,"Angermünde, Herwegh Str.",Bushalt Herweghstraße in Richtung Osten,53.014313000000,14.021279000000,0,,0,,"4465 Angermünde, Herwegh Str."
+de:12073:900340141::1,,"Angermünde, Finanzamt",Bushalt Jahnstraße hinter Wiesenstraße,53.016785000000,13.990388000000,0,,0,,"4465 Angermünde, Finanzamt"
+de:12073:900340141::2,,"Angermünde, Finanzamt",Bushalt Jahnstraße in Richtung Westen,53.016866000000,13.990366000000,0,,0,,"4465 Angermünde, Finanzamt"
+de:12073:900340144::1,,"Angermünde, Templiner Str.",Bushalt Templiner Straße hinter Prenzlauer Straße,53.023287000000,13.996141000000,0,,0,,"4465 Angermünde, Templiner Str."
+de:12073:900340145::1,,"Angermünde, Templiner Str. Wendestelle",Bushalt Templiner Straße Richtung Osten,53.023149000000,13.993299000000,0,,0,,"4465 Angermünde, Templiner Str. Wendestelle"
+de:12073:900340145::2,,"Angermünde, Templiner Str. Wendestelle",Bushalt Templiner Straße Richtung Westen,53.023252000000,13.992373000000,0,,0,,"4465 Angermünde, Templiner Str. Wendestelle"
+de:12073:900340146::1,,"Angermünde, Alte Templiner Str.",Bushalt Templiner Straße vor Prenzlauer Straße,53.023286000000,13.997564000000,0,,0,,"4465 Angermünde, Alte Templiner Str."
+de:12073:900340148::1,,"Angermünde, Am Tanger",Bushalt Rudolf-Breitscheid-Straße Richtung Südwesten,53.011663000000,13.974869000000,0,,0,,"4465 Angermünde, Am Tanger"
+de:12073:900340148::2,,"Angermünde, Am Tanger",Bushalt Rudolf-Breitscheid-Straße Richtung Nordosten,53.011642000000,13.974954000000,0,,0,,"4465 Angermünde, Am Tanger"
+de:12073:900340149::1,,"Angermünde, Am Wolletzsee",Bushalt Am Wolletzsee in der Wendeschleife,53.021702000000,13.948306000000,0,,0,,"4465 Angermünde, Am Wolletzsee"
+de:12073:900340152::1,,"Angermünde, E.-Kamieth-Str.",Bushalt Pestalozzistraße in Richtung Süden,53.015883000000,13.981368000000,0,,0,,"4465 Angermünde, E.-Kamieth-Str."
+de:12073:900340152::2,,"Angermünde, E.-Kamieth-Str.",Bushalt Pestalozzistraße hinter Ernst-Kamieth-Straße,53.016187000000,13.981400000000,0,,0,,"4465 Angermünde, E.-Kamieth-Str."
+de:12073:900340153::1,,"Frauenhagen (bei Angermünde), Ausbau",Bushalt Schönemarker Straße Richtung Nordost,53.090647000000,14.057669000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Ausbau"
+de:12073:900340153::2,,"Frauenhagen (bei Angermünde), Ausbau",Bushalt Schönemarker Straße Richtung Südwest,53.090328000000,14.057240000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Ausbau"
+de:12073:900340154::1,,"Frauenhagen (bei Angermünde), Mitte",Bushalt Mürower Straße vor Pinnower Straße,53.076813000000,14.041700000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Mitte"
+de:12073:900340154::2,,"Frauenhagen (bei Angermünde), Mitte",Bushalt Mürower Straße hinter Neue Dorfstraße,53.076875000000,14.041687000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Mitte"
+de:12073:900340155::1,,"Frauenhagen (bei Angermünde), Neubau",Bushalt Schönermarker Straße vor Zum Windrad,53.081345000000,14.047719000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Neubau"
+de:12073:900340155::2,,"Frauenhagen (bei Angermünde), Neubau",Bushalt Schönermarker Straße hinter Schmiedestraße,53.081297000000,14.047570000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Neubau"
+de:12073:900340156::1,,"Frauenhagen (bei Angermünde), Siedlung",Bushalt Pinnower Straße Richtung Nordwest,53.071912000000,14.058763000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Siedlung"
+de:12073:900340156::2,,"Frauenhagen (bei Angermünde), Siedlung",Bushalt Pinnower Straße Richtung Südost,53.072035000000,14.058237000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Siedlung"
+de:12073:900340157::1,,"Frauenhagen (bei Angermünde), Ziethenmühle Abzw.",Bushalt Neue Dorfstraße vor Zum Gutshof,53.080549000000,14.038274000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Ziethenmühle Abzw."
+de:12073:900340157::2,,"Frauenhagen (bei Angermünde), Ziethenmühle Abzw.",Bushalt Neue Dorfstraße hinter An der Welse,53.080483000000,14.038066000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Ziethenmühle Abzw."
+de:12073:900340158::1,,"Frauenhagen (bei Angermünde), Schmiedestr.",Bushalt Schmiedestraße hinter Schönermarker Straße,53.082347000000,14.047066000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Schmiedestr."
+de:12073:900340158::2,,"Frauenhagen (bei Angermünde), Schmiedestr.",Bushalt Schmiedestraße vor Schönermarker Straße,53.082273000000,14.047071000000,0,,0,,"4265 Frauenhagen (bei Angermünde), Schmiedestr."
+de:12073:900340160::1,,"Angermünde, Abzweig Plattenwerk",Bushalt Rudolf-Breitscheid-Straße in Richtung Westen,53.013151000000,13.984579000000,0,,0,,"4465 Angermünde, Abzweig Plattenwerk"
+de:12073:900340160::2,,"Angermünde, Abzweig Plattenwerk",Bushalt Rudolf-Breitscheid-Straße in Richtung Osten,53.013103000000,13.985238000000,0,,0,,"4465 Angermünde, Abzweig Plattenwerk"
+de:12073:900340162::1,,"Friedrichsthal (UM), Abzweig",Bushalt An der B2 Richtung Norden,53.160826000000,14.331365000000,0,,0,,"4070 Friedrichsthal (UM), Abzweig"
+de:12073:900340162::2,,"Friedrichsthal (UM), Abzweig",Bushalt An der B2 Richtung Süden,53.160538000000,14.330872000000,0,,0,,"4070 Friedrichsthal (UM), Abzweig"
+de:12073:900340163::1,,"Friedrichsthal (UM), Altes Grenzhaus",Bushalt An der B2 Richtung Nordost,53.154871000000,14.324913000000,0,,0,,"4070 Friedrichsthal (UM), Altes Grenzhaus"
+de:12073:900340163::2,,"Friedrichsthal (UM), Altes Grenzhaus",Bushalt An der B2 Richtung Südwest,53.155159000000,14.325102000000,0,,0,,"4070 Friedrichsthal (UM), Altes Grenzhaus"
+de:12073:900340164::1,,"Friedrichsthal (UM), Mitte",Bushalt Dorfstraße vor Försterweg,53.158561000000,14.345730000000,0,,0,,"4070 Friedrichsthal (UM), Mitte"
+de:12073:900340165::1,,"Friedrichsthal (UM), Teerofenbrücke Abzweig",Bushalt B 2 vor Teerofenbrücke Richtung Norden,53.137284000000,14.315734000000,0,,0,,"4070 Friedrichsthal (UM), Teerofenbrücke Abzweig"
+de:12073:900340165::2,,"Friedrichsthal (UM), Teerofenbrücke Abzweig",Bushalt B 2 vor Teerofenbrücke Richtung Süden,53.137622000000,14.315691000000,0,,0,,"4070 Friedrichsthal (UM), Teerofenbrücke Abzweig"
+de:12073:900340169::1,,"Gartz, Ausbau",Bushalt Ausbau Heinrichshof Richtung Südwesten,53.214420000000,14.342450000000,0,,0,,"4071 Gartz, Ausbau"
+de:12073:900340169::2,,"Gartz, Ausbau",Bushalt Ausbau Heinrichshof Richtung Nordosten,53.214237000000,14.341507000000,0,,0,,"4071 Gartz, Ausbau"
+de:12073:900340172::1,,"Gartz, Kastanienallee",Bushalt B 2 vor Kastanienallee,53.211475000000,14.374291000000,0,,0,,"4071 Gartz, Kastanienallee"
+de:12073:900340172::2,,"Gartz, Kastanienallee",Bushalt B 2 hinter Mühlenweg,53.211909000000,14.373256000000,0,,0,,"4071 Gartz, Kastanienallee"
+de:12073:900340173::1,,"Gartz, Mühlenteichbrücke",Bushalt B 2 vor Gartenstraße,53.208174000000,14.381194000000,0,,0,,"4071 Gartz, Mühlenteichbrücke"
+de:12073:900340173::2,,"Gartz, Mühlenteichbrücke",Bushalt B 2 vor Schülerweg,53.208251000000,14.381128000000,0,,0,,"4071 Gartz, Mühlenteichbrücke"
+de:12073:900340175::1,,"Gartz, Schule",Bushalt B 2 vor Am Bahnhof,53.210193000000,14.377092000000,0,,0,,"4071 Gartz, Schule"
+de:12073:900340175::2,,"Gartz, Schule",Bushalt B 2 hinter Am Bahnhof,53.210495000000,14.376549000000,0,,0,,"4071 Gartz, Schule"
+de:12073:900340176::1,,"Gartz, Siedlung",Bushalt Heinrichshofer Straße vor Bergstraße,53.213127000000,14.361943000000,0,,0,,"4071 Gartz, Siedlung"
+de:12073:900340176::2,,"Gartz, Siedlung",Bushalt Heinrichshofer Straße hinter Bergstraße,53.213081000000,14.361784000000,0,,0,,"4071 Gartz, Siedlung"
+de:12073:900340177::1,,"Gatow, Mitte",Bushalt Gatower Dorfstraße hinter Am Ring,53.107601000000,14.335242000000,0,,0,,"4170 Gatow, Mitte"
+de:12073:900340177::2,,"Gatow, Mitte",Bushalt Gatower Dorfstraße vor Am Ring,53.107521000000,14.335162000000,0,,0,,"4170 Gatow, Mitte"
+de:12073:900340178::1,,"Gatow, Nord",Bushalt An der Wendeschleife vor Zum Teerofen,53.109510000000,14.336366000000,0,,0,,"4170 Gatow, Nord"
+de:12073:900340184::1,,"Gellmersdorf, Mitte",Bushalt Stolper Straße in der Wendeschleife,52.968464000000,14.071970000000,0,,0,,"4466 Gellmersdorf, Mitte"
+de:12073:900340190::1,,"Görlsdorf (UM), Bahnübergang",Bushalt Görlsdorfer Straße hinter Blumberger Mühle,53.037763000000,13.975898000000,0,,0,,"4364 Görlsdorf (UM), Bahnübergang"
+de:12073:900340190::2,,"Görlsdorf (UM), Bahnübergang",Bushalt Görlsdorfer Straße vor Blumberger Mühle,53.037657000000,13.976039000000,0,,0,,"4364 Görlsdorf (UM), Bahnübergang"
+de:12073:900340191::1,,"Görlsdorf (UM), Chausseehaus",Bushalt B 198 Parkstraße in Richtung Geiffenberg,53.060467000000,13.965626000000,0,,0,,"4364 Görlsdorf (UM), Chausseehaus"
+de:12073:900340191::2,,"Görlsdorf (UM), Chausseehaus",Bushalt B 198 an Parkstraße in Richtung Kerkow,53.060131000000,13.966801000000,0,,0,,"4364 Görlsdorf (UM), Chausseehaus"
+de:12073:900340193::1,,"Görlsdorf (UM), Siedlung",Bushalt Apfelallee vor Parkstraße,53.052316000000,13.943927000000,0,,0,,"4364 Görlsdorf (UM), Siedlung"
+de:12073:900340193::2,,"Görlsdorf (UM), Siedlung",Bushalt Apfelallee hinter Parkstraße,53.052338000000,13.943703000000,0,,0,,"4364 Görlsdorf (UM), Siedlung"
+de:12073:900340194::1,,"Görlsdorf (UM), Wasserwerk",Bushalt K 7347 hinter Wasserplatz,53.049670000000,13.953968000000,0,,0,,"4364 Görlsdorf (UM), Wasserwerk"
+de:12073:900340194::2,,"Görlsdorf (UM), Wasserwerk",Bushalt K 7347 vor Wasserplatz,53.049607000000,13.954134000000,0,,0,,"4364 Görlsdorf (UM), Wasserwerk"
+de:12073:900340813::1,,Vogelsangsruh,Bushalt Vogelsangsruh Richtung Osten,53.156379000000,14.252879000000,0,,0,,4169 Vogelsangsruh
+de:12073:900340829::1,,"Greiffenberg, Ausbau",Bushalt L 24 Richtung Nordwesten,53.093935000000,13.930275000000,0,,0,,"4264 Greiffenberg, Ausbau"
+de:12073:900340829::2,,"Greiffenberg, Ausbau",Bushalt L 24 Richtung Südosten,53.093742000000,13.930462000000,0,,0,,"4264 Greiffenberg, Ausbau"
+de:12073:900340830::1,,"Greiffenberg, Bahnhofstr.",Bushalt Bahnhofstraße Richtung Südwest,53.080047000000,13.936247000000,0,,0,,"4264 Greiffenberg, Bahnhofstr."
+de:12073:900340830::2,,"Greiffenberg, Bahnhofstr.",Bushalt Bahnhofstraße Richtung Nordost,53.079977000000,13.936155000000,0,,0,,"4264 Greiffenberg, Bahnhofstr."
+de:12073:900340831::1,,"Greiffenberg, Friedhof",Bushalt L 24 vor Breite Straße,53.087827000000,13.943798000000,0,,0,,"4264 Greiffenberg, Friedhof"
+de:12073:900340831::2,,"Greiffenberg, Friedhof",Bushalt L 24 hinter Siedlung,53.088065000000,13.942871000000,0,,0,,"4264 Greiffenberg, Friedhof"
+de:12073:900340832::1,,"Greiffenberg, Markt",Bushalt L 24 hinter Kirchstraße,53.087093000000,13.953973000000,0,,0,,"4264 Greiffenberg, Markt"
+de:12073:900340832::2,,"Greiffenberg, Markt",Bushalt L 24 vor Kirchstraße,53.087130000000,13.954414000000,0,,0,,"4264 Greiffenberg, Markt"
+de:12073:900340833::1,,"Greiffenberg, Mitte",Bushalt B 198 vor Kirchstraße,53.088183000000,13.957283000000,0,,0,,"4264 Greiffenberg, Mitte"
+de:12073:900340833::2,,"Greiffenberg, Mitte",Bushalt B 198 hinter Kirchstraße,53.087671000000,13.955778000000,0,,0,,"4264 Greiffenberg, Mitte"
+de:12073:900340834::1,,"Greiffenberg, Schule",Bushalt Burgstraße hinter B 198,53.090291000000,13.961168000000,0,,0,,"4264 Greiffenberg, Schule"
+de:12073:900340835::1,,"Greiffenberg, Siedlung",Bushalt Bahnhofstraße hinter Wiesenweg,53.081450000000,13.940515000000,0,,0,,"4264 Greiffenberg, Siedlung"
+de:12073:900340835::2,,"Greiffenberg, Siedlung",Bushalt Bahnhofstraße vor Wiesenweg,53.081464000000,13.940646000000,0,,0,,"4264 Greiffenberg, Siedlung"
+de:12073:900340836::1,,"Greiffenberg, Zolldamm",Bushalt Zolldamm vor Wiesenweg,53.081944000000,13.957039000000,0,,0,,"4264 Greiffenberg, Zolldamm"
+de:12073:900340836::2,,"Greiffenberg, Zolldamm",Bushalt Zolldamm hinter Wiesenweg,53.081433000000,13.957087000000,0,,0,,"4264 Greiffenberg, Zolldamm"
+de:12073:900340837::1,,"Greiffenberg, Breite Str.",Bushalt Breite Straße vor Bahnhofstraße,53.086800000000,13.947866000000,0,,0,,"4264 Greiffenberg, Breite Str."
+de:12073:900340837::2,,"Greiffenberg, Breite Str.",Bushalt Breite Straße hinter Bahnhofstraße,53.086737000000,13.947973000000,0,,0,,"4264 Greiffenberg, Breite Str."
+de:12073:900340838::1,,"Greiffenberg, Schöne Aussicht",Bushalt Schöne Aussicht,53.081431000000,13.958578000000,0,,0,,"4264 Greiffenberg, Schöne Aussicht"
+de:12073:900340841::1,,"Groß Pinnow, Abzweig",Bushalt Schwedter Straße Richtung Nordosten,53.177429000000,14.343807000000,0,,0,,"4070 Groß Pinnow, Abzweig"
+de:12073:900340841::2,,"Groß Pinnow, Abzweig",Bushalt Schwedter Straße Richtung Südwesten,53.177995000000,14.343850000000,0,,0,,"4070 Groß Pinnow, Abzweig"
+de:12073:900340842::1,,"Groß Pinnow, Mitte",Bushalt Hohenselchower Straße vor Krugstraße,53.185600000000,14.276900000000,0,,0,,"4069 Groß Pinnow, Mitte"
+de:12073:900340842::2,,"Groß Pinnow, Mitte",Bushalt Hohenselchower Straße hinter Krugstraße,53.185816000000,14.277233000000,0,,0,,"4069 Groß Pinnow, Mitte"
+de:12073:900340843::1,,"Groß Pinnow, Arche",Bushalt Friedrichsthaler Straße vor Krugstraße,53.182926000000,14.279123000000,0,,0,,"4069 Groß Pinnow, Arche"
+de:12073:900340848::1,,Grumsin,Bushalt Althüttendendorfer Straße in der Wendeschleife,52.995863000000,13.852864000000,0,,0,,4463 Grumsin
+de:12073:900340859::1,,"Günterberg, Ausbau",Bushalt B 198 vor Neu-Günterberg,53.107112000000,13.964873000000,0,,0,,"4265 Günterberg, Ausbau"
+de:12073:900340859::2,,"Günterberg, Ausbau",Bushalt B 198 hinter Neu-Günterberg,53.107095000000,13.964828000000,0,,0,,"4265 Günterberg, Ausbau"
+de:12073:900340860::1,,"Günterberg, Kreuzung",Bushalt B 198 vor Dorfmitte,53.096058000000,13.962191000000,0,,0,,"4265 Günterberg, Kreuzung"
+de:12073:900340860::2,,"Günterberg, Kreuzung",Bushalt B 198 hinter Dorfmitte,53.095974000000,13.961923000000,0,,0,,"4265 Günterberg, Kreuzung"
+de:12073:900340861::1,,"Günterberg, Mitte",Bushalt L 285 vor Kirche,53.100299000000,13.968076000000,0,,0,,"4265 Günterberg, Mitte"
+de:12073:900340861::2,,"Günterberg, Mitte",Bushalt L 285 hinter Kirche,53.100353000000,13.968202000000,0,,0,,"4265 Günterberg, Mitte"
+de:12073:900340878::1,,"Heinrichshof, Ausbau",Bushalt L 27 hinter L 271,53.209203000000,14.316578000000,0,,0,,"3970 Heinrichshof, Ausbau"
+de:12073:900340878::2,,"Heinrichshof, Ausbau",Bushalt L 27 in Richtung Osten,53.209149000000,14.316584000000,0,,0,,"3970 Heinrichshof, Ausbau"
+de:12073:900340879::1,,"Heinrichshof, Mitte",Bushalt Gartzer Straße in Richtung Süden,53.204541000000,14.306522000000,0,,0,,"3970 Heinrichshof, Mitte"
+de:12073:900340879::2,,"Heinrichshof, Mitte",Bushalt Gartzer Straße in Richtung Norden,53.204692000000,14.306838000000,0,,0,,"3970 Heinrichshof, Mitte"
+de:12073:900340885::1,,"Henriettenhof, Abzweig",Bushalt B 2 vor Kreuzung,53.026498000000,14.055146000000,0,,0,,"4366 Henriettenhof, Abzweig"
+de:12073:900340885::2,,"Henriettenhof, Abzweig",Bushalt B 2 hinter Henriettenhofer Straße,53.026515000000,14.055501000000,0,,0,,"4366 Henriettenhof, Abzweig"
+de:12073:900340886::1,,"Henriettenhof, Mitte",Bushalt Henriettenhofer Straße vor B 2,53.022272000000,14.060490000000,0,,0,,"4366 Henriettenhof, Mitte"
+de:12073:900340892::1,,"Herzsprung (UM), Bahnübergang",Bushalt Am Wiesengrund hinter Herzsprunger Weg,52.975880000000,13.982775000000,0,,0,,"4565 Herzsprung (UM), Bahnübergang"
+de:12073:900340892::2,,"Herzsprung (UM), Bahnübergang",Bushalt Am Wiesengrund vor Am Bahndamm,52.975922000000,13.981742000000,0,,0,,"4565 Herzsprung (UM), Bahnübergang"
+de:12073:900340893::1,,"Herzsprung (UM), Bungalowsiedlung",Bushalt Kleiner Parsteinsee vor Heckenweg,52.970508000000,13.991409000000,0,,0,,"4565 Herzsprung (UM), Bungalowsiedlung"
+de:12073:900340893::2,,"Herzsprung (UM), Bungalowsiedlung",Bushalt Kleiner Parsteinsee vor Zum Parsteinsee,52.970984000000,13.990245000000,0,,0,,"4565 Herzsprung (UM), Bungalowsiedlung"
+de:12073:900340894::1,,"Herzsprung (UM), Mitte",Bushalt Lindenstraße Wendeschleife,52.976834000000,13.988936000000,0,,0,,"4565 Herzsprung (UM), Mitte"
+de:12073:900340898::1,,Hohenfelde,Bushalt Hohenfelder Dorfstraße vor Zum Storchenhof,53.135236000000,14.277033000000,0,,0,,4169 Hohenfelde
+de:12073:900340898::2,,Hohenfelde,Bushalt Hohenfelder Dorfstraße hinter Moritzstraße,53.135232000000,14.276719000000,0,,0,,4169 Hohenfelde
+de:12073:900340904::1,,"Hohenreinkendorf, Abzweig",Bushalt Ausbau Heinrichshof vor L 271,53.211450000000,14.326333000000,0,,0,,"3970 Hohenreinkendorf, Abzweig"
+de:12073:900340904::2,,"Hohenreinkendorf, Abzweig",Bushalt Ausbau Heinrichshof hinter der Kreuzung,53.211316000000,14.326200000000,0,,0,,"3970 Hohenreinkendorf, Abzweig"
+de:12073:900340905::1,,"Hohenreinkendorf, Mitte",Bushalt Hauptstraße vor Kreuzdamm,53.230337000000,14.330105000000,0,,0,,"3970 Hohenreinkendorf, Mitte"
+de:12073:900340905::2,,"Hohenreinkendorf, Mitte",Bushalt Hauptstraße hinter Beatenhofer Weg,53.230364000000,14.329995000000,0,,0,,"3970 Hohenreinkendorf, Mitte"
+de:12073:900340906::1,,"Hohenreinkendorf, Nord",Bushalt Hauptstraße vor Geesower Weg,53.235409000000,14.332366000000,0,,0,,"3970 Hohenreinkendorf, Nord"
+de:12073:900340906::2,,"Hohenreinkendorf, Nord",Bushalt Hauptstraße hinter Penkuner Weg,53.235270000000,14.332092000000,0,,0,,"3970 Hohenreinkendorf, Nord"
+de:12073:900340907::1,,"Hohenreinkendorf, Süd",Bushalt Hauptstraße hinter Siedlungsweg,53.225322000000,14.328450000000,0,,0,,"3970 Hohenreinkendorf, Süd"
+de:12073:900340907::2,,"Hohenreinkendorf, Süd",Bushalt Hauptstraße vor Achterweg West,53.225205000000,14.328209000000,0,,0,,"3970 Hohenreinkendorf, Süd"
+de:12073:900340908::1,,"Hohenselchow, Casekower Str.",Bushalt Casekower Straße hinter Nebenstraße,53.204850000000,14.274300000000,0,,0,,"3969 Hohenselchow, Casekower Str."
+de:12073:900340908::2,,"Hohenselchow, Casekower Str.",Bushalt Casekower Straße vor Pinnower Straße,53.204783000000,14.274369000000,0,,0,,"3969 Hohenselchow, Casekower Str."
+de:12073:900340909::1,,"Hohenselchow, Friedhof",Bushalt Heinrichshofer Straße vor Nebenstraße,53.203843000000,14.289153000000,0,,0,,"3969 Hohenselchow, Friedhof"
+de:12073:900340909::2,,"Hohenselchow, Friedhof",Bushalt Heinrichshofer Straße hinter Pinnower Straße,53.203758000000,14.289145000000,0,,0,,"3969 Hohenselchow, Friedhof"
+de:12073:900340910::1,,"Hohenselchow, Kreuzung Nord",Bushalt Heinrichshofer Straße vor Petershagener Straße,53.204438000000,14.280213000000,0,,0,,"3969 Hohenselchow, Kreuzung Nord"
+de:12073:900340911::1,,"Hohenselchow, Kreuzung Ost",Bushalt Heinrichshofer Straße hinter Pinnower Straße,53.204385000000,14.280028000000,0,,0,,"3969 Hohenselchow, Kreuzung Ost"
+de:12073:900340912::1,,"Hohenselchow, Kreuzung Süd",Bushalt Pinnower Straße vor Heinrichshofer Straße,53.204029000000,14.279858000000,0,,0,,"3969 Hohenselchow, Kreuzung Süd"
+de:12073:900340913::1,,"Hohenselchow, Kreuzung West",Bushalt Pinnower Straße hinter Casekower Straße,53.203958000000,14.279681000000,0,,0,,"3969 Hohenselchow, Kreuzung West"
+de:12073:900340914::1,,"Hohenselchow, Pinnower Str.",Bushalt Pinnower Straße in Richtung Süden,53.199231000000,14.277658000000,0,,0,,"3969 Hohenselchow, Pinnower Str."
+de:12073:900340914::2,,"Hohenselchow, Pinnower Str.",Bushalt Pinnower Straße in Richtung Norden,53.199125000000,14.277755000000,0,,0,,"3969 Hohenselchow, Pinnower Str."
+de:12073:900340928::1,,Keesow,Bushalt Keesower Straße Richtung Damitzow,53.273143000000,14.336194000000,0,,0,,3870 Keesow
+de:12073:900340928::2,,Keesow,Bushalt Keesower Straße Richtung Tantow,53.273097000000,14.336240000000,0,,0,,3870 Keesow
+de:12073:900340929::1,,"Kerkow, Ausbau",Bushalt Weslower Straße Ausbau Richtung Weslow,53.051366000000,14.004600000000,0,,0,,"4365 Kerkow, Ausbau"
+de:12073:900340929::2,,"Kerkow, Ausbau",Bushalt Weslower Straße Ausbau Richtung Kerkow,53.051050000000,14.004450000000,0,,0,,"4365 Kerkow, Ausbau"
+de:12073:900340930::1,,"Kerkow, Ausbau Mürower Str.",Bushalt Mürower Straße Ausbau Richtung Mürow,53.045256000000,14.017172000000,0,,0,,"4365 Kerkow, Ausbau Mürower Str."
+de:12073:900340930::2,,"Kerkow, Ausbau Mürower Str.",Bushalt Mürower Straße Ausbau Richtung Angermünde,53.045439000000,14.017493000000,0,,0,,"4365 Kerkow, Ausbau Mürower Str."
+de:12073:900340931::1,,"Kerkow, Bahnübergang",Bushalt Mürower Landstraße vor dem Bahnübergang,53.033718000000,14.008794000000,0,,0,,"4365 Kerkow, Bahnübergang"
+de:12073:900340931::2,,"Kerkow, Bahnübergang",Bushalt Mürower Landstraße hinter dem Bahnübergang,53.033660000000,14.008681000000,0,,0,,"4365 Kerkow, Bahnübergang"
+de:12073:900340932::1,,"Kerkow, Gaststätte",Bushalt Kerkower Dorfstraße vor Greiffenberger Straße,53.039204000000,13.990198000000,0,,0,,"4365 Kerkow, Gaststätte"
+de:12073:900340932::2,,"Kerkow, Gaststätte",Bushalt Kerkower Dorfstraße hinter Greiffenberger Straße,53.039179000000,13.990182000000,0,,0,,"4365 Kerkow, Gaststätte"
+de:12073:900340933::1,,"Kerkow, Greiffenberger Str.",Bushalt Greiffenberger Straße vor Görlsdorfer Straße,53.036666000000,13.988783000000,0,,0,,"4365 Kerkow, Greiffenberger Str."
+de:12073:900340933::2,,"Kerkow, Greiffenberger Str.",Bushalt Greiffenberger Straße hinter Görlsdorfer Straße,53.036983000000,13.988533000000,0,,0,,"4365 Kerkow, Greiffenberger Str."
+de:12073:900340935::1,,"Kerkow, Kita",Bushalt Kerkower Dorfstraße hinter Mürower Landstraße,53.037457000000,13.999828000000,0,,0,,"4365 Kerkow, Kita"
+de:12073:900340935::2,,"Kerkow, Kita",Bushalt Kerkower Dorfstraße vor Mürower Landstraße,53.037460000000,14.000047000000,0,,0,,"4365 Kerkow, Kita"
+de:12073:900340936::1,,"Kerkow, Mitte",Bushalt Greiffenberger Straße vor Welsower Straße,53.038621000000,13.989164000000,0,,0,,"4365 Kerkow, Mitte"
+de:12073:900340936::2,,"Kerkow, Mitte",Bushalt Greiffenberger Straße hinter Welsower Straße,53.039789000000,13.989526000000,0,,0,,"4365 Kerkow, Mitte"
+de:12073:900340945::1,,"Kunow (UM), Ausbau",Bushalt Woltersdorfer Straße vor Vogelsangsruh,53.154912000000,14.245939000000,0,,0,,"4169 Kunow (UM), Ausbau"
+de:12073:900340945::2,,"Kunow (UM), Ausbau",Bushalt Woltersdorfer Straße hinter Vogelsangsruh,53.154989000000,14.245966000000,0,,0,,"4169 Kunow (UM), Ausbau"
+de:12073:900340946::1,,"Kunow (UM), Mitte",Bushalt Landstraße vor Kunower Dorfstraße,53.138259000000,14.257636000000,0,,0,,"4169 Kunow (UM), Mitte"
+de:12073:900340946::2,,"Kunow (UM), Mitte",Bushalt Landstraße hinter Kunower Dorfstraße,53.138203000000,14.257479000000,0,,0,,"4169 Kunow (UM), Mitte"
+de:12073:900340947::1,,"Kunow (UM), Teich",Bushalt Woltersdorfer Straße hinter Kunower Dorfstraße,53.141700000000,14.257000000000,0,,0,,"4169 Kunow (UM), Teich"
+de:12073:900340947::2,,"Kunow (UM), Teich",Bushalt Woltersdorfer Straße vor Kunower Dorfstraße,53.141433000000,14.257300000000,0,,0,,"4169 Kunow (UM), Teich"
+de:12073:900340950::1,,Luckow,Bushalt Casekower Straße hinter Neuhofer Straße,53.240293000000,14.213413000000,0,,0,,3868 Luckow
+de:12073:900340972::1,,"Mürow, Kirche",Bushalt Hauptstraße vor Straße am Dorfteich,53.054900000000,14.033304000000,0,,0,,"4365 Mürow, Kirche"
+de:12073:900340972::2,,"Mürow, Kirche",Bushalt Hauptstraße hinter Straße am Dorfteich,53.054808000000,14.033139000000,0,,0,,"4365 Mürow, Kirche"
+de:12073:900340973::1,,"Mürow, Mitte",Bushalt Straße am Dorfteich hinter Hauptstraße,53.052378000000,14.035051000000,0,,0,,"4365 Mürow, Mitte"
+de:12073:900340974::1,,"Mürow, Oberdorf",Bushalt Oberdorf Richtung Westen,53.054831000000,14.054983000000,0,,0,,"4365 Mürow, Oberdorf"
+de:12073:900340975::1,,"Mürow, Ost",Bushalt Hauptstraße vor Am Schlosspark,53.052250000000,14.034616000000,0,,0,,"4365 Mürow, Ost"
+de:12073:900340989::1,,"Gellmersdorf, Am Stadtberg",Bushalt Straße Gellmersdorf-Crussow hinter Am Stadtberg,52.976167000000,14.068329000000,0,,0,,"4565 Gellmersdorf, Am Stadtberg"
+de:12073:900340990::1,,"Neuhof (UM), Mitte",Bushalt Neuhofer Straße Richtung Süden,53.018753000000,14.081923000000,0,,0,,"4366 Neuhof (UM), Mitte"
+de:12073:900340990::2,,"Neuhof (UM), Mitte",Bushalt Neuhofer Straße Richtung Norden,53.018751000000,14.082065000000,0,,0,,"4366 Neuhof (UM), Mitte"
+de:12073:900340991::1,,"Neukünkendorf, Kindergarten",Bushalt Straße am Haussee hinter Kreuzung,52.975654000000,14.042079000000,0,,0,,"4565 Neukünkendorf, Kindergarten"
+de:12073:900340991::2,,"Neukünkendorf, Kindergarten",Bushalt Straße am Haussee vor Kreuzung,52.975710000000,14.042262000000,0,,0,,"4565 Neukünkendorf, Kindergarten"
+de:12073:900340992::1,,"Neukünkendorf, Kreuzung",Bushalt Wilhelmsfelder Straße hinter B 158,52.976082000000,14.043444000000,0,,0,,"4565 Neukünkendorf, Kreuzung"
+de:12073:900340992::2,,"Neukünkendorf, Kreuzung",Bushalt Wilhelmsfelder Straße vor B 158,52.976110000000,14.043653000000,0,,0,,"4565 Neukünkendorf, Kreuzung"
+de:12073:900340993::1,,"Neukünkendorf, Mitte",Bushalt Straße am Haussee Richtung Süden,52.971434000000,14.038879000000,0,,0,,"4565 Neukünkendorf, Mitte"
+de:12073:900340993::2,,"Neukünkendorf, Mitte",Bushalt Straße am Haussee Richtung Norden,52.971398000000,14.038964000000,0,,0,,"4565 Neukünkendorf, Mitte"
+de:12073:900340994::1,,"Neukünkendorf, Siedlung",Bushalt Straße am Haussee vor Ausbau Richtung Süden,52.968223000000,14.037747000000,0,,0,,"4565 Neukünkendorf, Siedlung"
+de:12073:900340994::2,,"Neukünkendorf, Siedlung",Bushalt Straße am Haussee vor Ausbau Richtung Norden,52.968291000000,14.037790000000,0,,0,,"4565 Neukünkendorf, Siedlung"
+de:12073:900340995::1,,"Neukünkendorf, Ausbau",Bushalt B 158 hinter Ausbau Richtung Südosten,52.988047000000,14.029871000000,0,,0,,"4565 Neukünkendorf, Ausbau"
+de:12073:900340995::2,,"Neukünkendorf, Ausbau",Bushalt B 158 hinter Ausbau Richtung Nordwesten,52.988180000000,14.029860000000,0,,0,,"4565 Neukünkendorf, Ausbau"
+de:12073:900341002::1,,Niederfelde,Bushalt Niederfelder Weg hinter Woltersdorfer Straße,53.154176000000,14.245110000000,0,,0,,4169 Niederfelde
+de:12073:900341014::1,,Peetzig,Bushalt Peetzig Richtung Nordwest,53.073024000000,13.918784000000,0,,0,,4264 Peetzig
+de:12073:900341018::1,,"Petershagen (UM), Dorf",Bushalt Dorfstraße hinter Penkuner Straße,53.244716000000,14.251200000000,0,,0,,"3868 Petershagen (UM), Dorf"
+de:12073:900341026::1,,"Neuhof (UM), Abzweig",Bushalt L 284 vor dem Kreisverkehr,53.030282000000,14.082467000000,0,,0,,"4266 Neuhof (UM), Abzweig"
+de:12073:900341026::2,,"Neuhof (UM), Abzweig",Bushalt L 284 hinter dem Kreisverkehr,53.030195000000,14.082643000000,0,,0,,"4266 Neuhof (UM), Abzweig"
+de:12073:900341032::1,,"Polßen, Mitte",Bushalt Hauptstraße hinter Dorfstraße,53.166818000000,13.980860000000,0,,0,,"4064 Polßen, Mitte"
+de:12073:900341032::2,,"Polßen, Mitte",Bushalt Hauptstraße vor Dorfstraße,53.166519000000,13.980803000000,0,,0,,"4064 Polßen, Mitte"
+de:12073:900341033::1,,"Polßen, Nord",Bushalt Am Sportplatz vor Dorfstraße,53.166385000000,13.979376000000,0,,0,,"4064 Polßen, Nord"
+de:12073:900341037::1,,"Radekow, Ausbau",Bushalt K 7311 Richtung Süden,53.290293000000,14.351155000000,0,,0,,"3770 Radekow, Ausbau"
+de:12073:900341037::2,,"Radekow, Ausbau",Bushalt K 7311 Richtung Norden,53.290576000000,14.351316000000,0,,0,,"3770 Radekow, Ausbau"
+de:12073:900341038::1,,"Radekow, Mitte",Bushalt Lindenstraße hinter Rosower Weg,53.296063000000,14.352254000000,0,,0,,"3770 Radekow, Mitte"
+de:12073:900341038::2,,"Radekow, Mitte",Bushalt Lindenstraße vor Rosower Weg,53.295919000000,14.352322000000,0,,0,,"3770 Radekow, Mitte"
+de:12073:900341039::1,,"Radekow, Ost",Bushalt Alt-Radekower Straße Richtung Süden,53.301521000000,14.352560000000,0,,0,,"3770 Radekow, Ost"
+de:12073:900341039::2,,"Radekow, Ost",Bushalt Alt-Radekower Straße Richtung Norden,53.301819000000,14.352705000000,0,,0,,"3770 Radekow, Ost"
+de:12073:900341040::1,,"Reglingsruh, Abzweig",Bushalt Abzweig Richtung Westen,53.205968000000,14.241084000000,0,,0,,"3969 Reglingsruh, Abzweig"
+de:12073:900341040::2,,"Reglingsruh, Abzweig",Bushalt Abzweig Richtung Osten,53.205930000000,14.240950000000,0,,0,,"3969 Reglingsruh, Abzweig"
+de:12073:900341055::1,,"Schmargendorf, Kreuzung",Bushalt B 2 Herzsprunger Weg Richtunng Norden,52.978157000000,13.971548000000,0,,0,,"4464 Schmargendorf, Kreuzung"
+de:12073:900341055::2,,"Schmargendorf, Kreuzung",Bushalt B 2 Herzsprunger Weg Richtung Süden,52.976997000000,13.970437000000,0,,0,,"4464 Schmargendorf, Kreuzung"
+de:12073:900341056::1,,"Schmargendorf, Mitte",Bushalt Rotdornstraße hinter Zum Dorfanger,52.989273000000,13.954128000000,0,,0,,"4464 Schmargendorf, Mitte"
+de:12073:900341057::1,,"Schmargendorf, Siedlung",Bushalt Zum Dorfanger vor Am Mühlenberg,52.978706000000,13.965088000000,0,,0,,"4464 Schmargendorf, Siedlung"
+de:12073:900341057::2,,"Schmargendorf, Siedlung",Bushalt Zum Dorfanger vor B 2,52.978454000000,13.966136000000,0,,0,,"4464 Schmargendorf, Siedlung"
+de:12073:900341058::1,,"Schmargendorf, Hemme Milch",Bushalt Heideweg Richtung Südost,52.988831000000,13.955104000000,0,,0,,"4464 Schmargendorf, Hemme Milch"
+de:12073:900341062::1,,"Schmiedeberg, Ausbau",Bushalt Chausseehaus vor Polßener Mühle Richtung Nordost,53.149652000000,13.965779000000,0,,0,,"4064 Schmiedeberg, Ausbau"
+de:12073:900341062::2,,"Schmiedeberg, Ausbau",Bushalt Chauseehaus vor Polßener Mühle Richtung Südwest,53.149758000000,13.965733000000,0,,0,,"4064 Schmiedeberg, Ausbau"
+de:12073:900341063::1,,"Schmiedeberg, Mitte",Bushalt B 198 vor Dorfstraße,53.142557000000,13.958031000000,0,,0,,"4064 Schmiedeberg, Mitte"
+de:12073:900341063::2,,"Schmiedeberg, Mitte",Bushalt B 198 hinter Dorfstraße,53.142819000000,13.958108000000,0,,0,,"4064 Schmiedeberg, Mitte"
+de:12073:900341064::1,,"Schmiedeberg, Nord",Bushalt Dorfstraße Richtung Süden,53.143153000000,13.952212000000,0,,0,,"4064 Schmiedeberg, Nord"
+de:12073:900341064::2,,"Schmiedeberg, Nord",Bushalt Dorfstraße Richtung Norden,53.143682000000,13.952808000000,0,,0,,"4064 Schmiedeberg, Nord"
+de:12073:900341072::1,,"Schönermark (bei Passow), Bahnhof",Bushalt Schönermarker Bahnhof vor Bahnübergang,53.104910000000,14.032215000000,0,,0,,"4166 Schönermark (bei Passow), Bahnhof"
+de:12073:900341072::2,,"Schönermark (bei Passow), Bahnhof",Bushalt Schönermarker Bahnhof hinter Bahnübergang,53.105196000000,14.031938000000,0,,0,,"4166 Schönermark (bei Passow), Bahnhof"
+de:12073:900341078::1,,"Schönfeld (bei Tantow), Mitte",Bushalt Hauptstraße Richtung Nordost,53.275348000000,14.291509000000,0,,0,,"3869 Schönfeld (bei Tantow), Mitte"
+de:12073:900341192::1,,"Steinhöfel (UM), Kreuzung",Bushalt L 24 Richtung Nordwesten,53.097581000000,13.922435000000,0,,0,,"4263 Steinhöfel (UM), Kreuzung"
+de:12073:900341192::2,,"Steinhöfel (UM), Kreuzung",Bushalt L 24 Richtung Südosten,53.097130000000,13.923113000000,0,,0,,"4263 Steinhöfel (UM), Kreuzung"
+de:12073:900341205::1,,Sternfelde,Bushalt Kastanienallee hinter Parkweg,53.003703000000,13.970044000000,0,,0,,4464 Sternfelde
+de:12073:900341210::1,,"Stolpe (Oder), Am Fliedergrund",Bushalt Schöneberger Straße Richtung Nordosten,52.985799000000,14.118991000000,0,,0,,"4466 Stolpe (Oder), Am Fliedergrund"
+de:12073:900341210::2,,"Stolpe (Oder), Am Fliedergrund",Bushalt Schöneberger Straße Richtung Südwesten,52.985666000000,14.118666000000,0,,0,,"4466 Stolpe (Oder), Am Fliedergrund"
+de:12073:900341211::1,,"Stolpe (Oder), Linde",Bushalt Linde Richtung Nordwesten,52.989824000000,14.115550000000,0,,0,,"4466 Stolpe (Oder), Linde"
+de:12073:900341212::1,,"Stolpe (Oder), Mitte",Bushalt Am Kanal vor Leopold-von-Buch-Straße,52.978332000000,14.113224000000,0,,0,,"4466 Stolpe (Oder), Mitte"
+de:12073:900341213::1,,"Stolpe (Oder), Turm",Bushalt Leopold-von-Buch-Straße Richtung Süden,52.979828000000,14.117426000000,0,,0,,"4466 Stolpe (Oder), Turm"
+de:12073:900341213::2,,"Stolpe (Oder), Turm",Bushalt Leopold-von-Buch-Straße Richtung Norden,52.979324000000,14.116720000000,0,,0,,"4466 Stolpe (Oder), Turm"
+de:12073:900341223::1,,"Tantow, Ausbau",Bushalt Hohenreinkendorfer Straße vor Gessower Weg,53.260249000000,14.349356000000,0,,0,,"3870 Tantow, Ausbau"
+de:12073:900341223::2,,"Tantow, Ausbau",Bushalt Hohenreinkendorfer Straße vor Geesower Weg,53.260400000000,14.349600000000,0,,0,,"3870 Tantow, Ausbau"
+de:12073:900341224:1:50,,"Tantow, Bahnhof",Bahnsteig Gleis 1,53.270518000000,14.349615000000,0,de:12073:900341224,1,1,"3870 Tantow, Bahnhof"
+de:12073:900341224:2:51,,"Tantow, Bahnhof",Bahnsteig Gleis 3,53.270708000000,14.349585000000,0,de:12073:900341224,1,2,"3870 Tantow, Bahnhof"
+de:12073:900341224::1,,"Tantow, Bahnhof",Bushalt Bahnhofstraße hinter Lindenallee,53.270598000000,14.350069000000,0,,1,,"3870 Tantow, Bahnhof"
+de:12073:900341224::2,,"Tantow, Bahnhof",Ersatzhalt Lindenallee hinter Bahnhofstr.,53.271460000000,14.351660000000,0,,0,,"3870 Tantow, Bahnhof"
+de:12073:900341224::3,,"Tantow, Bahnhof",Ersatzhalt Lindenallee vor Bahnhofstr.,53.271530000000,14.351720000000,0,,0,,"3870 Tantow, Bahnhof"
+de:12073:900341226::1,,"Tantow, Friedhof",Bushalt Dorfstraße Richtung Süden,53.276920000000,14.352068000000,0,,0,,"3870 Tantow, Friedhof"
+de:12073:900341226::2,,"Tantow, Friedhof",Bushalt Dorfstraße Richtung Norden,53.277245000000,14.352124000000,0,,0,,"3870 Tantow, Friedhof"
+de:12073:900341227::1,,"Tantow, Schule",Bushalt Schule,53.266900000000,14.350266000000,0,,0,,"3870 Tantow, Schule"
+de:12073:900341227::2,,"Tantow, Schule",Bushalt Schule,53.266886000000,14.350075000000,0,,0,,"3870 Tantow, Schule"
+de:12073:900341228::1,,"Tantow, Siedlungsweg",Bushalt Bahnhofstraße hinter Siedlungsweg,53.265996000000,14.348156000000,0,,0,,"3870 Tantow, Siedlungsweg"
+de:12073:900341228::2,,"Tantow, Siedlungsweg",Bushalt Bahnhofstraße vor Siedlungsweg,53.265769000000,14.348123000000,0,,0,,"3870 Tantow, Siedlungsweg"
+de:12073:900341235::1,,"Vierraden, Schwedenweg",Bushalt Schwedenweg hinter Siedlung,53.101179000000,14.307906000000,0,,0,,"4269 Vierraden, Schwedenweg"
+de:12073:900341236::1,,"Vierraden, Tabakmuseum",Bushalt Breite Straße hinter Schwedter Straße,53.095045000000,14.293515000000,0,,0,,"4269 Vierraden, Tabakmuseum"
+de:12073:900341236::2,,"Vierraden, Tabakmuseum",Bushalt Breite Straße vor Schwedter Straße,53.095095000000,14.293461000000,0,,0,,"4269 Vierraden, Tabakmuseum"
+de:12073:900341237::1,,"Vierraden, Gatow Abzweig",Bushalt Schwedenweg vor Gartzer Straße,53.100039000000,14.302683000000,0,,0,,"4269 Vierraden, Gatow Abzweig"
+de:12073:900341238::1,,"Vierraden, Hafen",Bushalt Hafenstraße Richtung Norden,53.099077000000,14.320081000000,0,,0,,"4269 Vierraden, Hafen"
+de:12073:900341238::2,,"Vierraden, Hafen",Bushalt Hafenstraße Richtung Süden,53.098703000000,14.319782000000,0,,0,,"4269 Vierraden, Hafen"
+de:12073:900341239::1,,"Vierraden, Hafenstr.",Bushalt Schwedenweg hinter Hafenstraße,53.102544000000,14.314146000000,0,,0,,"4269 Vierraden, Hafenstr."
+de:12073:900341239::2,,"Vierraden, Hafenstr.",Bushalt Hafenstraße,53.102162000000,14.313521000000,0,,0,,"4269 Vierraden, Hafenstr."
+de:12073:900341240::1,,"Vierraden, Kreuzung",Bushalt Gartzer Straße hinter Am Turm,53.098348000000,14.299809000000,0,,0,,"4269 Vierraden, Kreuzung"
+de:12073:900341240::2,,"Vierraden, Kreuzung",Bushalt Gartzer Straße vor Am Turm,53.098499000000,14.300045000000,0,,0,,"4269 Vierraden, Kreuzung"
+de:12073:900341241::1,,"Vierraden, Lindenhof",Bushalt Chausseestraße vor Schwedter Straße,53.090645000000,14.294110000000,0,,0,,"4269 Vierraden, Lindenhof"
+de:12073:900341241::2,,"Vierraden, Lindenhof",Bushalt Chausseestraße hinter Schwedter Straße,53.090614000000,14.293994000000,0,,0,,"4269 Vierraden, Lindenhof"
+de:12073:900341242::1,,"Vierraden, Markt",Bushalt Am Markt hinter Breite Straße,53.096682000000,14.296338000000,0,,0,,"4269 Vierraden, Markt"
+de:12073:900341242::2,,"Vierraden, Markt",Bushalt Am Markt vor Breite Straße,53.096754000000,14.296346000000,0,,0,,"4269 Vierraden, Markt"
+de:12073:900341243::1,,"Vierraden, Milchviehanlage",Bushalt Schwedenweg vor Ausbau Gatow,53.104209000000,14.321564000000,0,,0,,"4269 Vierraden, Milchviehanlage"
+de:12073:900341243::2,,"Vierraden, Milchviehanlage",Bushalt Schwedenweg hinter Ausbau Gatow,53.104242000000,14.321536000000,0,,0,,"4269 Vierraden, Milchviehanlage"
+de:12073:900341244::1,,"Vierraden, Mitte",Bushalt Chausseestraße vor Am Markt,53.096148000000,14.297385000000,0,,0,,"4269 Vierraden, Mitte"
+de:12073:900341244::2,,"Vierraden, Mitte",Bushalt Chausseestraße hinter Am Markt,53.096150000000,14.297269000000,0,,0,,"4269 Vierraden, Mitte"
+de:12073:900341245::1,,"Vierraden, Schwedter Str.",Bushalt Schwedter Straße vor Fuchsweg,53.093065000000,14.293933000000,0,,0,,"4269 Vierraden, Schwedter Str."
+de:12073:900341245::2,,"Vierraden, Schwedter Str.",Bushalt Schwedter Straße hinter Fuchsweg,53.093267000000,14.293792000000,0,,0,,"4269 Vierraden, Schwedter Str."
+de:12073:900341246::1,,"Vierraden, Gartzer Str.",Bushalt Gartzer Str. vor Hafenstr.,53.101553000000,14.300484000000,0,,0,,"4269 Vierraden, Gartzer Str."
+de:12073:900341246::2,,"Vierraden, Gartzer Str.",Bushalt Gartzer Str. vor Schwedenweg,53.101533000000,14.300447000000,0,,0,,"4269 Vierraden, Gartzer Str."
+de:12073:900341252::1,,"Wartin, Am Feldrain",Bushalt Hauptstraße vor Am Kuhberg,53.246753000000,14.153131000000,0,,0,,"3967 Wartin, Am Feldrain"
+de:12073:900341252::2,,"Wartin, Am Feldrain",Bushalt Hauptstraße hinter Am Kuhberg,53.246618000000,14.152742000000,0,,0,,"3967 Wartin, Am Feldrain"
+de:12073:900341253::1,,"Wartin, Ausbau",Bushalt Blumberger Damm Richtung Norden,53.237807000000,14.147789000000,0,,0,,"3967 Wartin, Ausbau"
+de:12073:900341253::2,,"Wartin, Ausbau",Bushalt Blumberger Damm Richtung Süden,53.237699000000,14.147615000000,0,,0,,"3967 Wartin, Ausbau"
+de:12073:900341254::1,,"Wartin, Ausbau Süd",Bushalt Casekower Chaussee Richtung Norden,53.238722000000,14.168924000000,0,,0,,"3967 Wartin, Ausbau Süd"
+de:12073:900341254::2,,"Wartin, Ausbau Süd",Bushalt Casekower Chaussee Richtung Süden,53.238661000000,14.168842000000,0,,0,,"3967 Wartin, Ausbau Süd"
+de:12073:900341255::1,,"Wartin, Mitte",Bushalt Hauptstraße hinter Kleine Dorfstraße,53.250427000000,14.156533000000,0,,0,,"3967 Wartin, Mitte"
+de:12073:900341255::2,,"Wartin, Mitte",Bushalt Hauptstraße vor Kleine Dorfstraße,53.250523000000,14.156728000000,0,,0,,"3967 Wartin, Mitte"
+de:12073:900341256::1,,"Wartin, Nord",Bushalt Sommersdorfer Straße hinter Grünzer Weg,53.255258000000,14.159408000000,0,,0,,"3967 Wartin, Nord"
+de:12073:900341257::1,,"Wartin, Siedlung",Bushalt Casekower Chaussee Richtung Norden,53.245861000000,14.164143000000,0,,0,,"3967 Wartin, Siedlung"
+de:12073:900341257::2,,"Wartin, Siedlung",Bushalt Casekower Chaussee Richtung Süden,53.245727000000,14.164057000000,0,,0,,"3967 Wartin, Siedlung"
+de:12073:900341263::1,,"Welsow, Bruchhagener Str.",Bushalt Bruchhagener Weg Richtung Westen,53.070870000000,13.981640000000,0,,0,,"4365 Welsow, Bruchhagener Str."
+de:12073:900341263::2,,"Welsow, Bruchhagener Str.",Bushalt Bruchhagener Weg Richtung Osten,53.070833000000,13.981683000000,0,,0,,"4365 Welsow, Bruchhagener Str."
+de:12073:900341264::1,,"Welsow, Mitte",Bushalt Am Töpferberg vor Bruchhagener Weg,53.069082000000,14.001735000000,0,,0,,"4365 Welsow, Mitte"
+de:12073:900341270:1:50,,"Wilmersdorf (bei Angermünde), Bahnhof",Bahnsteig Gleis 1,53.111656000000,13.892572000000,0,de:12073:900341270,1,1,"4263 Wilmersdorf (bei Angermünde), Bahnhof"
+de:12073:900341270:2:51,,"Wilmersdorf (bei Angermünde), Bahnhof",Bahnsteig Gleis 2,53.112575000000,13.891701000000,0,de:12073:900341270,1,2,"4263 Wilmersdorf (bei Angermünde), Bahnhof"
+de:12073:900341270:2:52,,"Wilmersdorf (bei Angermünde), Bahnhof",Bahnsteig Gleis 3,53.112561000000,13.891653000000,0,de:12073:900341270,1,3,"4263 Wilmersdorf (bei Angermünde), Bahnhof"
+de:12073:900341270::1,,"Wilmersdorf (bei Angermünde), Bahnhof",Bushalt Straße zum Bahnhof vor dem Bahnhofsgebäude,53.111735000000,13.892968000000,0,,1,,"4263 Wilmersdorf (bei Angermünde), Bahnhof"
+de:12073:900341271::1,,"Wilmersdorf (bei Angermünde), Bahnhof",Bushalt L24 vor Straße Zum Bahnhof Richtung Pfingstberg,53.114057000000,13.894627000000,0,,0,,"4263 Wilmersdorf (bei Angermünde), Bahnhof"
+de:12073:900341271::2,,"Wilmersdorf (bei Angermünde), Bahnhof",Bushalt L24 hinter Straße zum Bahnhof in Richtung Wilmersdorf,53.113673000000,13.895740000000,0,,0,,"4263 Wilmersdorf (bei Angermünde), Bahnhof"
+de:12073:900341272::1,,"Wilmersdorf (bei Angermünde), Mitte",Bushalt Wilmersdorfer Straße in der Wendeschleife,53.111143000000,13.905752000000,0,,0,,"4263 Wilmersdorf (bei Angermünde), Mitte"
+de:12073:900341277::1,,"Wolletz, Klinik",Bushalt Zur Welse vor der Klinik,53.025534000000,13.906053000000,0,,0,,"4363 Wolletz, Klinik"
+de:12073:900341278::1,,"Wolletz, Mitte",Bushalt Zur Kastanienallee vor Zur Apfelallee,53.024756000000,13.901386000000,0,,0,,"4363 Wolletz, Mitte"
+de:12073:900341285::1,,"Woltersdorf (UM), Casekower Str.",Bushalt Casekower Straße hinter Hohenselchower Weg,53.182698000000,14.217054000000,0,,0,,"3968 Woltersdorf (UM), Casekower Str."
+de:12073:900341285::2,,"Woltersdorf (UM), Casekower Str.",Bushalt Casekower Straße vor Hohenselchower Weg,53.182409000000,14.216946000000,0,,0,,"3968 Woltersdorf (UM), Casekower Str."
+de:12073:900341286::1,,"Woltersdorf (UM), Mitte",Bushalt Kunower Straße vor Casekower Damm,53.179433000000,14.218113000000,0,,0,,"3968 Woltersdorf (UM), Mitte"
+de:12073:900341286::2,,"Woltersdorf (UM), Mitte",Bushalt Kunower Straße hinter Casekower Damm,53.179202000000,14.218226000000,0,,0,,"3968 Woltersdorf (UM), Mitte"
+de:12073:900341305::1,,Ziethenmühle,Bushalt Ziethen-Mühle an der Wendeschleife,53.097011000000,14.026886000000,0,,0,,4265 Ziethenmühle
+de:12073:900341311::1,,Zuchenberg,Bushalt Lindenallee Richtung Südwest,52.997571000000,13.943505000000,0,,0,,4464 Zuchenberg
+de:12073:900341311::2,,Zuchenberg,Bushalt Lindenallee Richtung 2,52.998160000000,13.938051000000,0,,0,,4464 Zuchenberg
+de:12073:900341311::3,,Zuchenberg,Bushalt Lindenallee Richtung 3,52.998139000000,13.938053000000,0,,0,,4464 Zuchenberg
+de:12073:900341340::1,,"Leopoldsthal, Nord",Bushalt Leopoldsthaler Straße Richtung Südost,53.148294000000,14.001918000000,0,,0,,"4265 Leopoldsthal, Nord"
+de:12073:900341342::1,,"Leopoldsthal, Süd",Bushalt Leopoldsthaler Straße Richtung Südost,53.144866000000,14.007137000000,0,,0,,"4265 Leopoldsthal, Süd"
