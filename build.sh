@@ -8,6 +8,8 @@ function echo_heading () {
 	echo -e "\n\n$(tput -T xterm bold)$1$(tput -T xterm sgr0)\n"
 }
 
+export QSV_SKIP_FORMAT_CHECK='true'
+
 
 
 echo_heading 'downloading & extracting the DELFI.BB GTFS feed'

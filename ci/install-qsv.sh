@@ -8,8 +8,8 @@ sudo apt install -y \
 	curl jq unzip
 
 ua='bbnavi/gtfs-flex CI'
-qsv_release='87693052' # 0.81.0
-releases_url="https://api.github.com/repos/jqnatividad/qsv/releases/$qsv_release"
+qsv_release='6.0.1'
+releases_url="https://api.github.com/repos/dathere/qsv/releases/$qsv_release"
 assets_url="$(
 	curl "$releases_url" -H 'Accept: application/json' -H "User-Agent: $ua" -L -fsS \
 	| jq -r '.assets_url'
