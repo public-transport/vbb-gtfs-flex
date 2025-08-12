@@ -95,9 +95,9 @@ echo 'done!'
 
 
 
-echo_heading 'creating gtfs-flex.zip'
-zip -j -9 -q gtfs-flex.zip *.txt
-ls -lh gtfs-flex.zip
+echo_heading 'creating vbb-flex.gtfs.zip'
+zip -j -9 -q vbb-flex.gtfs.zip *.txt
+ls -lh vbb-flex.gtfs.zip
 
 
 

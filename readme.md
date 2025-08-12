@@ -15,7 +15,7 @@ It adds the following demand-responsive lines:
 The built GTFS-Flex feed is published via GitHub Pages:
 
 ```shell
-wget 'https://public-transport.github.io/vbb-gtfs-flex/gtfs-flex.zip'
+wget 'https://public-transport.github.io/vbb-gtfs-flex/vbb-flex.gtfs.zip'
 ```
 
 
