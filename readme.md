@@ -1,6 +1,6 @@
 # VBB GTFS-Flex feed
 
-**Generate a [GTFS-Flex v2](https://github.com/MobilityData/gtfs-flex/blob/130eb67c7dfac846b74625747e2623429d9f8f64/spec/reference.md) feed that augments [VBB](https://en.wikipedia.org/wiki/Verkehrsverbund_Berlin-Brandenburg)'s [official GTFS Schedule feed](https://unternehmen.vbb.de/digitale-services/datensaetze/).**
+**Generate a [GTFS-Flex v2](https://gtfs.org/community/extensions/flex/) feed that augments [VBB](https://en.wikipedia.org/wiki/Verkehrsverbund_Berlin-Brandenburg)'s [official GTFS Schedule feed](https://unternehmen.vbb.de/digitale-services/datensaetze/).**
 
 [![CC0-licensed](https://img.shields.io/github/license/bbnavi/gtfs-flex.svg)](LICENSE)
 

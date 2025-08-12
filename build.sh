@@ -51,12 +51,12 @@ echo 'done!'
 echo_heading 'generating stops.txt from VBB GTFS'
 
 invalid_stops=$(qsv join --left \
-	location_id location_groups.txt \
+	stop_id location_group_stops.txt \
 	stop_id gtfs/stops.txt \
 	| qsv search -s stop_id '^$' 2>/dev/null || true)
 nr_of_invalid_stops="$(echo -n $(echo "$invalid_stops" | qsv behead | wc -l))"
 if [ $nr_of_invalid_stops -gt 0 ]; then
-	1>&2 echo "there are $nr_of_invalid_stops location_groups.txt rows with invalid/unknown location_id/stop_id:"
+	1>&2 echo "there are $nr_of_invalid_stops location_group_stops.txt rows with invalid/unknown stop_id:"
 	1>&2 echo "$invalid_stops"
 	exit 1
 fi
@@ -65,12 +65,12 @@ fi
 # OTP does not accept location_type=4 (boarding area)
 invalid_loc_types='^[1234]$'
 invalid_stops=$(qsv join --left \
-	location_id location_groups.txt \
+	stop_id location_group_stops.txt \
 	stop_id gtfs/stops.txt \
 	| qsv search -s location_type "$invalid_loc_types" 2>/dev/null || true)
 nr_of_invalid_stops="$(echo -n $(echo "$invalid_stops" | qsv behead | wc -l))"
 if [ $nr_of_invalid_stops -gt 0 ]; then
-	1>&2 echo "there are $nr_of_invalid_stops location_groups.txt rows whose stop has an invalid location_type:"
+	1>&2 echo "there are $nr_of_invalid_stops location_group_stops.txt rows whose stop has an invalid location_type:"
 	1>&2 echo "$invalid_stops"
 	exit 1
 fi
@@ -85,7 +85,7 @@ stops_columns="stop_id,$(qsv headers -j gtfs/stops.txt \
 
 # keep all gtfs/stops.txt rows referenced in location_groups.txt
 qsv join --left \
-	location_id location_groups.txt \
+	stop_id location_group_stops.txt \
 	stop_id gtfs/stops.txt \
 	| qsv select "$stops_columns" \
 	| qsv dedup -s stop_id \
