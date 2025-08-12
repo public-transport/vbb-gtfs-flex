@@ -1,10 +1,10 @@
-# bbnavi/gtfs-flex
+# VBB GTFS-Flex feed
 
-**Generate a [GTFS-Flex v2](https://github.com/MobilityData/gtfs-flex/blob/130eb67c7dfac846b74625747e2623429d9f8f64/spec/reference.md) feed for [bbnavi](https://bbnavi.de).**
+**Generate a [GTFS-Flex v2](https://github.com/MobilityData/gtfs-flex/blob/130eb67c7dfac846b74625747e2623429d9f8f64/spec/reference.md) feed that augments [VBB](https://en.wikipedia.org/wiki/Verkehrsverbund_Berlin-Brandenburg)'s [official GTFS Schedule feed](https://unternehmen.vbb.de/digitale-services/datensaetze/).**
 
 [![CC0-licensed](https://img.shields.io/github/license/bbnavi/gtfs-flex.svg)](LICENSE)
 
-**This feed is an entirely separate feed.** It augments the official data in the [DELFI](https://www.delfi.de) [GTFS Berlin-Brandenburg cutout](https://gtfs.mfdz.de/DELFI.BB.gtfs.zip) used within bbnavi by specifying these lines:
+It adds the following demand-responsive lines:
 
 - [RufBus lines 476, 477 & 478 in Angermünde](https://uvg-online.com/rufbus-angermuende/)
 - [RufBus lines 487 & 488 in Gartz](https://uvg-online.com/rufbus-gartz/)

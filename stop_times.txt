@@ -1,9 +1,9 @@
 trip_id,stop_sequence,stop_id,arrival_time,departure_time,start_pickup_dropoff_window,end_pickup_dropoff_window,pickup_type,pickup_booking_rule_id,drop_off_type,drop_off_booking_rule_id,stop_headsign
-flex-476-weekdays,1,flex-476-stops,,,17:30:00,22:00:00,2,flächenrufbus-angermünde-weekdays,2,flächenrufbus-angermünde-weekdays,RufBus 476
-flex-476-weekends,1,flex-476-stops,,,08:00:00,22:00:00,2,flächenrufbus-angermünde-weekends,2,flächenrufbus-angermünde-weekends,RufBus 476
-flex-477-weekdays,1,flex-477-stops,,,17:30:00,22:00:00,2,flächenrufbus-angermünde-weekdays,2,flächenrufbus-angermünde-weekdays,RufBus 477
-flex-477-weekends,1,flex-477-stops,,,08:00:00,22:00:00,2,flächenrufbus-angermünde-weekends,2,flächenrufbus-angermünde-weekends,RufBus 477
-flex-478-weekdays,1,flex-478-stops,,,17:30:00,22:00:00,2,flächenrufbus-angermünde-weekdays,2,flächenrufbus-angermünde-weekdays,RufBus 478
-flex-478-weekends,1,flex-478-stops,,,08:00:00,22:00:00,2,flächenrufbus-angermünde-weekends,2,flächenrufbus-angermünde-weekends,RufBus 478
-flex-487-weekends,1,flex-487-stops,,,08:00:00,20:00:00,2,flächenrufbus-gartz,2,flächenrufbus-gartz,RufBus 487
-flex-488-weekends,1,flex-488-stops,,,08:00:00,20:00:00,2,flächenrufbus-gartz,2,flächenrufbus-gartz,RufBus 488
+flex-476-weekdays,1,flex-476-477-478-stops,,,17:30:00,22:00:00,2,flächenrufbus-angermünde-weekdays,2,flächenrufbus-angermünde-weekdays,RufBus 476
+flex-476-weekends,1,flex-476-477-478-stops,,,08:00:00,22:00:00,2,flächenrufbus-angermünde-weekends,2,flächenrufbus-angermünde-weekends,RufBus 476
+flex-477-weekdays,1,flex-476-477-478-stops,,,17:30:00,22:00:00,2,flächenrufbus-angermünde-weekdays,2,flächenrufbus-angermünde-weekdays,RufBus 477
+flex-477-weekends,1,flex-476-477-478-stops,,,08:00:00,22:00:00,2,flächenrufbus-angermünde-weekends,2,flächenrufbus-angermünde-weekends,RufBus 477
+flex-478-weekdays,1,flex-476-477-478-stops,,,17:30:00,22:00:00,2,flächenrufbus-angermünde-weekdays,2,flächenrufbus-angermünde-weekdays,RufBus 478
+flex-478-weekends,1,flex-476-477-478-stops,,,08:00:00,22:00:00,2,flächenrufbus-angermünde-weekends,2,flächenrufbus-angermünde-weekends,RufBus 478
+flex-487-weekends,1,flex-487-488-stops,,,08:00:00,20:00:00,2,flächenrufbus-gartz,2,flächenrufbus-gartz,RufBus 487
+flex-488-weekends,1,flex-487-488-stops,,,08:00:00,20:00:00,2,flächenrufbus-gartz,2,flächenrufbus-gartz,RufBus 488

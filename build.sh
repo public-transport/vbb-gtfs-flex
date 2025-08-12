@@ -12,19 +12,18 @@ export QSV_SKIP_FORMAT_CHECK='true'
 
 
 
-echo_heading 'downloading & extracting the DELFI.BB GTFS feed'
+echo_heading 'downloading & extracting the VBB GTFS feed'
 
-# This GTFS feed is built using gtfs-hub:
-# https://github.com/mfdz/gtfs-hub/blob/d1338336ccecd884a727f7efe60fa4263513be6a/makefile#L25-L27
-wget -c -N -q 'https://gtfs.mfdz.de/DELFI.BB.gtfs.zip'
+wget -c -N -nv -U 'bbnavi/gtfs-flex build script' -O /tmp/gtfs.zip 'https://www.vbb.de/vbbgtfs'
 
-unzip -o -j -q -d gtfs DELFI.BB.gtfs.zip agency.txt
-unzip -o -j -q -d gtfs DELFI.BB.gtfs.zip stops.txt
+unzip -o -j -q -d gtfs /tmp/gtfs.zip agency.txt
+unzip -o -j -q -d gtfs /tmp/gtfs.zip stops.txt
 
 echo 'done!'
 
 
-echo_heading 'generating agency.txt from DELFI.BB GTFS'
+
+echo_heading 'generating agency.txt from VBB GTFS'
 
 invalid_routes=$(qsv join --left \
 	agency_id routes.txt \
@@ -49,7 +48,7 @@ echo 'done!'
 
 
 
-echo_heading 'generating stops.txt from DELFI.BB GTFS'
+echo_heading 'generating stops.txt from VBB GTFS'
 
 invalid_stops=$(qsv join --left \
 	location_id location_groups.txt \
