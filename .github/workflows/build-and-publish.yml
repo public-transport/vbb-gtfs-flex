@@ -38,7 +38,7 @@ jobs:
     steps:
       # todo
       - name: restore gtfs-flex.zip
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v5
         with:
           name: gtfs-flex
       - name: publish to opendata.bbnavi.de
