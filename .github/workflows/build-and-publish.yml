@@ -28,7 +28,7 @@ jobs:
         cp index.html vbb-flex.gtfs.zip gh-pages/
     - name: store GTFS-Flex feed as GitHub Pages artifact
       if: ${{ (github.event_name == 'push' || github.event_name == 'schedule') && github.ref == 'refs/heads/main' }}
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v4
       with:
         name: feed
         path: gh-pages/
